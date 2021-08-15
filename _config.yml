@@ -8,13 +8,13 @@
 # Site Settings
 minimal_mistakes_skin    : "dark"
 locale                   : "en-US"
-title                    : "Sahasrajit Sarmasarkar Home Page"
+title                    : "Arush Gupta Home Page"
 title_separator          : " - "
-name                     : &name "Sahasrajit Sarmasarkar"
-description              : &description "Personal homepage of Sahasrajit Sarmasarkar"
-url                      : https://Sahasrajit123.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Arush Gupta"
+description              : &description "Personal homepage of Arush Gupta"
+url                      : https://arush-gupta.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Sahasrajit123/Sahasrajit123.github.io"
+repository               : "arush-gupta/arush-gupta.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,13 +81,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sahasrajit Sarmasarkar"
+  name             : "Arush Gupta"
   avatar           : "profile.png" ## Image 
   bio              : "Fifth Year Dual Degree (B.Tech+M.Tech) Student, Electrical Engineering, IIT Bombay"
   location         : "Mumbai, India"
   employer         :
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "sahasrajit1998[at]gmail.com"
+  email            : "arushiitb2016[at]gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : Sahasrajit123
+  github           : arush-gupta
   google_plus      :
   keybase          :
   instagram        :
