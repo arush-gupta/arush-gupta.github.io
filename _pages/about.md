@@ -17,7 +17,7 @@ My master's thesis was with [Prof. Bhaskaran Muralidharan](http://sharada.ee.iit
 
 Having had a great interest in teaching, I served as a tutor in the English Language Improvement Training (ELIT) Programme for two years (from the end of my sophomore year till the end of my senior year) in which I tutored other students of the institute who wanted to work on their English language speaking skills
 
-To know more on my projects, you can visit [Research](https://Sahasrajit123.github.io/research/) page and my academic CV can be found [here]((https://Sahasrajit123.github.io/files/CV_Sahasrajit.pdf)).
+To know more on my projects, you can visit [Research](https://arush-gupta.github.io/research/) page and my academic CV can be found [here]((https://Sahasrajit123.github.io/files/CV_Sahasrajit.pdf)).
 
 
 <!---
