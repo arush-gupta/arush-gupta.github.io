@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I just graduated from the interdisciplinary dual degree programme at [IIT Bombay](https://www.iitb.ac.in), with an M.Tech in [Electrical Engineering](https://www.ee.iitb.ac.in/web) (specializing in Microelectronics) and a B.Tech in [Mechanical Engineering](https://www.me.iitb.ac.in). 
+I graduated in August 2021, from the interdisciplinary dual degree programme at [IIT Bombay](https://www.iitb.ac.in), with an M.Tech in [Electrical Engineering](https://www.ee.iitb.ac.in/web) (specializing in Microelectronics) and a B.Tech in [Mechanical Engineering](https://www.me.iitb.ac.in). 
 During my undegraduate research, I have worked on problems related to Majorana Zero Modes in condensed matter systems, and single channel spin-degenerate quantum transport, and separately, on problems related to heat transfer in nanoscale solid state systems. 
 My current research interests broadly lie in **Quantum Technologies**, problems in the realm of electronics and photonics that deal with **Energy harvesting and conversion**, and **Topological Condensed Matter Physics**.
 
