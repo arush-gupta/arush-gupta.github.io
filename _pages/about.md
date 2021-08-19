@@ -13,11 +13,13 @@ I graduated in August 2021, from the interdisciplinary dual degree programme at 
 During my undegraduate research, I have worked on problems related to Majorana Zero Modes in condensed matter systems, and single channel spin-degenerate quantum transport, and separately, on problems related to heat transfer in nanoscale solid state systems. 
 My current research interests broadly lie in **Quantum Technologies**, problems in the realm of electronics and photonics that deal with **Energy harvesting and conversion**, and **Topological Condensed Matter Physics**.
 
+<!---
 My master's thesis was with [Prof. Bhaskaran Muralidharan](http://sharada.ee.iitb.ac.in/~bm/?page_id=85) where we explored the conductance signatures of the Kitaev Chain as a channel. During my senior year, I worked with [Prof. Bhaskaran Muralidharan](http://sharada.ee.iitb.ac.in/~bm/?page_id=85) on learning about quantum transport by exploring Coulomb-blockade effects in single channel spin-degenerate systems. I spent my third year summer interning in [Prof. Dipanshu Bansal's group](https://sites.google.com/view/spectroscopy-iitb/home?authuser=0) where I worked on simulating phonon transport in two-dimensional nanoscale systems via Monte Carlo simulations. 
+--->
 
 Having had a great interest in teaching, I served as a tutor in the English Language Improvement Training (ELIT) Programme for two years (from the end of my sophomore year till the end of my senior year) in which I tutored other students of the institute who wanted to work on their English language speaking skills
 
-To know more on my projects, you can visit [Research](https://arush-gupta.github.io/research/) page and my academic CV can be found [here]((https://Sahasrajit123.github.io/files/CV_Sahasrajit.pdf)).
+For more information on my projects, my academic CV can be found [here]((https://arush-gupta.github.io/files/CV_Arush.pdf)).
 
 
 <!---
