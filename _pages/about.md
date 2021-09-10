@@ -11,14 +11,15 @@ redirect_from:
 
 I graduated in August 2021, from the interdisciplinary dual degree programme at [IIT Bombay](https://www.iitb.ac.in), with an M.Tech in [Electrical Engineering](https://www.ee.iitb.ac.in/web) (specializing in Microelectronics) and a B.Tech in [Mechanical Engineering](https://www.me.iitb.ac.in). 
 
-During my undegraduate research, I have worked on problems related to Majorana Zero Modes in condensed matter systems, and single channel spin-degenerate quantum transport, and separately, on a problem on heat transfer in nanoscale solid state systems. 
-My current research interests broadly lie in **Quantum Technologies**, in the realm of electronics and photonics that deal with **Energy harvesting and conversion**, and **Topological Condensed Matter Physics**.
+During my undergraduate research, I have worked on problems related to Majorana Zero Modes in condensed matter systems, and single spin-degenerate quantum transport, and separately, on a problem on modelling heat transfer in nanoscale solid state systems. 
+My current research interests broadly lie in **Quantum Technologies**, in the realm of electronics and photonics that deal with **Energy harvesting and conversion**, and **Topological Condensed Matter Physics**. I would like to solve problems in the aforementioned fields using computational techniques in the future.
 
 <!---
 My master's thesis was with [Prof. Bhaskaran Muralidharan](http://sharada.ee.iitb.ac.in/~bm/?page_id=85) where we explored the conductance signatures of the Kitaev Chain as a channel and the role of dephasing interactions on the strength of the signatures. During my senior year, I worked with [Prof. Bhaskaran Muralidharan](http://sharada.ee.iitb.ac.in/~bm/?page_id=85) to learning about quantum transport by exploring Coulomb-blockade effects in single channel spin-degenerate systems. I spent my third year summer interning in [Prof. Dipanshu Bansal's group](https://sites.google.com/view/spectroscopy-iitb/home?authuser=0) where I worked on simulating phonon transport in two-dimensional nanoscale systems via Monte Carlo simulations. 
---->
+
 
 Having had a great interest in teaching, I served as a tutor in the English Language Improvement Training (ELIT) Programme for two years (from the end of my sophomore year till the end of my senior year) in which I tutored other students of the institute who wanted to work on their English language speaking skills
+--->
 
 For more information on my projects, my academic CV can be found [here](https://arush-gupta.github.io/cv/).
 
