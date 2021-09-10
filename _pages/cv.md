@@ -7,6 +7,6 @@ redirect_from:
 ---
 
 
-[Long CV](https://arush-gupta.github.io/files/CV_Arush.pdf) (4 pages)
+[Long CV](https://arush-gupta.github.io/files/CV_Arush_1.pdf) (4 pages)
 
 
