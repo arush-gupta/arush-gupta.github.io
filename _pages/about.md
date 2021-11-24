@@ -27,10 +27,12 @@ I spent a significant portion of my undergraduate years dealing with computation
 **The skills that I have:** 
 I have worked exclusively with Python and MATLAB
 
+
+<!---
 **The kind of problems I worked on during my undergrad:**
 
 **The skillsets that I am developing right now:** Neural networks and deep learning, 
-
+--->
 
 
 <!---
