@@ -8,13 +8,16 @@ redirect_from:
   - /about.html
 ---
 
+Hi there! I am an aspiring engineer who wants to apply tools from the fields of computer science and mathematics to solve problems in the fields of supply chain logistics, 
 
-**Who I am:** I graduated from [IIT Bombay](https://www.iitb.ac.in) in August 2021 with a dual degree, a B.Tech in [Mechanical Engineering](https://www.me.iitb.ac.in) and an M.Tech in [Electrical Engineering](https://www.ee.iitb.ac.in/web) (specializing in Microelectronics).
+**Where I am from:** I graduated from [IIT Bombay](https://www.iitb.ac.in) in August 2021 with a dual degree, a B.Tech in [Mechanical Engineering](https://www.me.iitb.ac.in) and an M.Tech in [Electrical Engineering](https://www.ee.iitb.ac.in/web) (specializing in Microelectronics).
 
-**The skills that my experiences have endowed me with:** 
+**The skills that I have:** 
 Having gained an academic perspective on research, I aim to work in areas of 
 
 **The kind of problems I worked on during my undergrad:**
+
+**The skillsets that I am developing right now:** Neural networks and deep learning, 
 
 During my undergraduate research, I have worked on problems related to Majorana Zero Modes in condensed matter systems, and single spin-degenerate quantum transport, and separately, on a problem on modelling heat transfer in nanoscale solid state systems. 
 
