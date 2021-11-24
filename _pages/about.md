@@ -8,18 +8,30 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am an aspiring engineer who wants to apply tools from the fields of computer science and mathematics to solve problems in the fields of supply chain logistics, 
 
-**Where I am from:** I graduated from [IIT Bombay](https://www.iitb.ac.in) in August 2021 with a dual degree, a B.Tech in [Mechanical Engineering](https://www.me.iitb.ac.in) and an M.Tech in [Electrical Engineering](https://www.ee.iitb.ac.in/web) (specializing in Microelectronics).
+**Who I am:** 
+Hi there! I am an recent engineering graduate who wants to apply tools like Neural Networks, Convex Optimization Theory, and Digital Signal Processing to solve problems in the fields of IIoT (Industrial Internet of Things) and supply chain logistics and optimization, and I am actively looking for job opportunities which will give me exposure not only to the technical aspects of problem solving but also to understanding demands of clients in the industry and the unique problems that they face.
+
+<!---
+A problem that has caught my eye in recent times is that of the use of machine learning in equipment failure prediction.
+--->
+
+**Where I am from:** 
+I graduated from [IIT Bombay](https://www.iitb.ac.in) in August 2021 with a dual degree, a B.Tech in [Mechanical Engineering](https://www.me.iitb.ac.in) and an M.Tech in [Electrical Engineering](https://www.ee.iitb.ac.in/web) (specializing in Microelectronics).
+
+
+**What I did during my undergrad:** 
+I spent my undergraduate years trying to figure out how things work, taking courses across a broad spectrum of fields - in aerospace and mechanical engineering, electrical engineering, and physics to understand the depths of how things work.
+
+I have also spent a significant portion of my undergraduate years dealing with computational problems - I have worked on problems related to Majorana Zero Modes in condensed matter systems, and single spin-degenerate quantum transport, and separately, on modelling heat transfer in nanoscale solid state systems via Monte-Carlo methods.
 
 **The skills that I have:** 
-Having gained an academic perspective on research, I aim to work in areas of 
+I am 
 
 **The kind of problems I worked on during my undergrad:**
 
 **The skillsets that I am developing right now:** Neural networks and deep learning, 
 
-During my undergraduate research, I have worked on problems related to Majorana Zero Modes in condensed matter systems, and single spin-degenerate quantum transport, and separately, on a problem on modelling heat transfer in nanoscale solid state systems. 
 
 
 <!---
