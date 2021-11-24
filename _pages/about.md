@@ -19,14 +19,11 @@ A problem that has caught my eye in recent times is that of the use of machine l
 **Where I am from:** 
 I graduated from [IIT Bombay](https://www.iitb.ac.in) in August 2021 with a dual degree, a B.Tech in [Mechanical Engineering](https://www.me.iitb.ac.in) and an M.Tech in [Electrical Engineering](https://www.ee.iitb.ac.in/web) (specializing in Microelectronics).
 
-
 **What I did during my undergrad:** 
-I spent my undergraduate years trying to figure out how things work, taking courses across a broad spectrum of fields - in aerospace and mechanical engineering, electrical engineering, and physics to understand the depths of how things work.
-
-I have also spent a significant portion of my undergraduate years dealing with computational problems - I have worked on problems related to Majorana Zero Modes in condensed matter systems, and single spin-degenerate quantum transport, and separately, on modelling heat transfer in nanoscale solid state systems via Monte-Carlo methods.
+I spent my undergraduate years trying to figure out how things work, taking courses across a broad spectrum of fields - in aerospace and mechanical engineering, in electrical engineering, and in physics to complement my knowledge of the physical world. I have also spent a significant portion of my undergraduate years dealing with computational problems - I have worked on modelling conductance signatures of Majorana Zero Modes in condensed matter systems, on modelling current for single electron transistors, and on modelling heat transfer in nanoscale solid state systems via Monte-Carlo methods.
 
 **The skills that I have:** 
-I am 
+I have worked exclusively with Python and MATLAB
 
 **The kind of problems I worked on during my undergrad:**
 
