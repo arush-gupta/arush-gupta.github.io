@@ -9,9 +9,12 @@ redirect_from:
 ---
 
 
-I graduated in August 2021, from the interdisciplinary dual degree programme at [IIT Bombay](https://www.iitb.ac.in), with a B.Tech in [Mechanical Engineering](https://www.me.iitb.ac.in) and an M.Tech in [Electrical Engineering](https://www.ee.iitb.ac.in/web) (specializing in Microelectronics).
+**Who I am:** I graduated from [IIT Bombay](https://www.iitb.ac.in) in August 2021 with a dual degree, a B.Tech in [Mechanical Engineering](https://www.me.iitb.ac.in) and an M.Tech in [Electrical Engineering](https://www.ee.iitb.ac.in/web) (specializing in Microelectronics).
 
-As of now, I intend to explore 
+**The skills that my experiences have endowed me with:** 
+Having gained an academic perspective on research, I aim to work in areas of 
+
+**The kind of problems I worked on during my undergrad:**
 
 During my undergraduate research, I have worked on problems related to Majorana Zero Modes in condensed matter systems, and single spin-degenerate quantum transport, and separately, on a problem on modelling heat transfer in nanoscale solid state systems. 
 
