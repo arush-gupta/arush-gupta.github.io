@@ -8,9 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+Hi there! 
 
 **Who I am:** 
-Hi there! I am a recent engineering graduate and I want to apply tools from the fields of computer science, mathematics, and engineering like Neural Networks, Convex Optimization Theory, and Digital Signal Processing to solve problems in the fields of IIoT (Industrial Internet of Things), supply chain logistics and optimization, and equipment failure prediction. I am actively looking for job opportunities which will give me exposure not only to the technical aspects of problem solving in these fields but also in understanding demands of clients in the industry and the unique problems that they face.
+I am a recent engineering graduate and I want to apply tools from the fields of computer science, mathematics, and engineering like Neural Networks, Convex Optimization Theory, and Digital Signal Processing to solve problems in the fields of IIoT (Industrial Internet of Things), supply chain logistics and optimization, and equipment failure prediction. I am actively looking for job opportunities which will give me exposure not only to the technical aspects of problem solving in these fields but also in understanding demands of clients in the industry and the unique problems that they face.
 
 <!---
 A problem that has caught my eye in recent times is that of the use of machine learning in equipment failure prediction.
