@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<!---
 Hi there! Thank you for visiting my webpage. 
 
 **Who I am:** A recent engineering graduate in search for meaningful problems to solve.
@@ -18,7 +18,7 @@ I want to apply tools from the fields of computer science, mathematics, and engi
 <!---
 A problem that has caught my eye in recent times is that of the use of machine learning in equipment failure prediction.
 --->
-
+<!---
 **Where I am from:** 
 I graduated from [IIT Bombay](https://www.iitb.ac.in) in August 2021 with a dual degree - a B.Tech in [Mechanical Engineering](https://www.me.iitb.ac.in) and an M.Tech in [Electrical Engineering](https://www.ee.iitb.ac.in/web) (specializing in Microelectronics).
 
@@ -29,6 +29,7 @@ I spent a significant portion of my undergraduate years dealing with computation
 
 **The skills that I have:** 
 I have worked exclusively with Python and MATLAB
+--->
 
 
 <!---
