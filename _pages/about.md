@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+This page is under construction but for more information on my projects, my academic CV can be found [here](https://arush-gupta.github.io/cv/).
 <!---
 Hi there! Thank you for visiting my webpage. 
 
@@ -46,7 +47,7 @@ My master's thesis was with [Prof. Bhaskaran Muralidharan](http://sharada.ee.iit
 Having had a great interest in teaching, I served as a tutor in the English Language Improvement Training (ELIT) Programme for two years (from the end of my sophomore year till the end of my senior year) in which I tutored other students of the institute who wanted to work on their English language speaking skills
 --->
 
-For more information on my projects, my academic CV can be found [here](https://arush-gupta.github.io/cv/).
+
 
 
 <!---
