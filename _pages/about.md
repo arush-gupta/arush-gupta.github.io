@@ -7,10 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-This page is under construction but for more information on my projects, my academic CV can be found [here](https://arush-gupta.github.io/cv/).
-<!---
 Hi there! Thank you for visiting my webpage. 
+This page is under construction but for more information on my projects, my academic CV can be found [here](https://arush-gupta.github.io/cv/).
 
+<!---
 **Who I am:** A recent engineering graduate in search for meaningful problems to solve.
 
 **What I want to do:** 
