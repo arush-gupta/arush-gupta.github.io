@@ -16,10 +16,8 @@ Hi there! Thank you for visiting my webpage.
 **What I want to do:** 
 I want to apply tools from the fields of computer science, mathematics, and engineering like Neural Networks, Convex Optimization Theory, and Digital Signal Processing to solve problems in the fields of IIoT (Industrial Internet of Things), supply chain logistics and optimization, and equipment failure prediction. I am actively looking for job opportunities which will give me exposure not only to the technical aspects of problem solving in these fields but also in understanding demands of clients in the industry and the unique problems that they face.
 
-<!---
 A problem that has caught my eye in recent times is that of the use of machine learning in equipment failure prediction.
---->
-<!---
+
 **Where I am from:** 
 I graduated from [IIT Bombay](https://www.iitb.ac.in) in August 2021 with a dual degree - a B.Tech in [Mechanical Engineering](https://www.me.iitb.ac.in) and an M.Tech in [Electrical Engineering](https://www.ee.iitb.ac.in/web) (specializing in Microelectronics).
 
@@ -30,10 +28,7 @@ I spent a significant portion of my undergraduate years dealing with computation
 
 **The skills that I have:** 
 I have worked exclusively with Python and MATLAB
---->
 
-
-<!---
 **The kind of problems I worked on during my undergrad:**
 
 **The skillsets that I am developing right now:** Neural networks and deep learning, 
