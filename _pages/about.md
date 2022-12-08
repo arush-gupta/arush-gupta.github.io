@@ -10,7 +10,7 @@ redirect_from:
 Hi there! Thank you for visiting my webpage. 
 This page is under construction.
 
-Here is a [video](https://www.youtube.com/watch?v=w1ot30trtZY) of me explaining why you should consider a switch to the interdisciplinary dual degree programme at IIT Bombay.
+Here is a [video](https://www.youtube.com/watch?v=w1ot30trtZY) of me explaining why you should consider a switch to the interdisciplinary dual degree programme (IDDDP) at IIT Bombay, if you wish to pursue research outside of your "host" department.
 
 
 
