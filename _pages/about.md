@@ -13,6 +13,8 @@ Here is a [video](https://www.youtube.com/watch?v=w1ot30trtZY) of me explaining 
 
 This page is still under construction.
 
+8th August 2023: Teaching is the best way to learn something. So, I'm gonna start teaching now.
+
 <!---
 but for more information on my projects, my academic CV can be found [here](https://arush-gupta.github.io/cv/).
 **Who I am:** A recent engineering graduate in search for meaningful problems to solve.
