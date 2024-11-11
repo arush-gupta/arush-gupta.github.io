@@ -12,8 +12,9 @@ redirect_from:
 Education
 ======
 * Ph.D in Jhingalala huhu, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.Sc. in Physics, Imperial College of Science, Technology and Medicine, 2024
+* M.Tech. in Electrical Engineering, Indian Insitute of Technology Bombay, 2021
+* B.Tech. in Mechanical Engineering, Indian Insitute of Technology Bombay, 2020
 
 Work experience
 ======
