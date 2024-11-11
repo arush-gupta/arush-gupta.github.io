@@ -22,9 +22,9 @@ Development of teaching methodologies
 
 Work experience
 ======
-* March - June 2022: Project Research Associate, Systems & Control Engineering Group, Department of Electrical Engineering, IIT Bombay
+March - June 2022: Project Research Associate, Systems & Control Engineering Group, Department of Electrical Engineering, IIT Bombay
 
-Minimally guided project: Mathematical modelling of collision avoidance routines for autonomous bots, optimising
+* Minimally guided project: Mathematical modelling of collision avoidance routines for autonomous bots, optimising
 path-correction strategies to enhance safety and manoeuvrability:
   * Inspired by human kinematic behaviour in walking crowds , created a game-theoretic model for self-driving bots
 operating under a distributed control algorithm using stochastic, symmetric Bernoulli random walks.
@@ -32,15 +32,6 @@ operating under a distributed control algorithm using stochastic, symmetric Bern
 Note: Due to unforeseen circumstances during my tenure, my contributions may not fully represent my capabilities. Nevertheless, I
 remain determined to demonstrate my true potential.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
