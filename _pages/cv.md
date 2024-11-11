@@ -11,17 +11,26 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Jhingalala huhu, GitHub University, 2018 (expected)
 * M.Sc. in Physics, Imperial College of Science, Technology and Medicine, 2024
 * M.Tech. in Electrical Engineering, Indian Insitute of Technology Bombay, 2021
 * B.Tech. in Mechanical Engineering, Indian Insitute of Technology Bombay, 2020
 
+Development of teaching methodologies
+======
+* 2020 - 2024: Deep dive into learning frameworks: education psychology and social psychology
+  * Works of Alfie Kohn, Noam Chomsky, and Prof KG Suresh
+
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* March - June 2022: Project Research Associate, Systems & Control Engineering Group, Department of Electrical Engineering, IIT Bombay
+
+Minimally guided project: Mathematical modelling of collision avoidance routines for autonomous bots, optimising
+path-correction strategies to enhance safety and manoeuvrability:
+  * Inspired by human kinematic behaviour in walking crowds , created a game-theoretic model for self-driving bots
+operating under a distributed control algorithm using stochastic, symmetric Bernoulli random walks.
+  * Parametrised optimal collision avoidance routines to improve autonomous navigation effectiveness.
+Note: Due to unforeseen circumstances during my tenure, my contributions may not fully represent my capabilities. Nevertheless, I
+remain determined to demonstrate my true potential.
 
 * Fall 2015: Research Assistant
   * Github University
