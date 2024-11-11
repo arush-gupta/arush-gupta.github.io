@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jhingalala Hu Hu"
+title                    : "Open Source Research"
 title_separator          : "-"
 name                     : &name "Arush Gupta"
 description              : &description "personal description"
