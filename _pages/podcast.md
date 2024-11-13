@@ -1,3 +1,14 @@
+---
+layout: archive
+title: "Podcast"
+permalink: /podcast/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
+
 A Little Awkward, A Lot Passionate: Introducing My Podcast! [Research Translated](https://youtu.be/UVzhr1ViXe8)
 
 In a brief 2-minute video (despite my ambitious plans to talk for 15 minutes 🤣 ), I share my vision for breaking down complex STEM topics and eliminating jargon barriers. The goal is to empower young learners to make informed choices about their educational paths.
