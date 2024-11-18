@@ -7,6 +7,9 @@ redirect_from:
   - /about.html
 ---
 
+
+Hi! if you are here to get to know me, you've come to the right place because I'm here to get to know myself as well haha! 
+
 >"Science cannot solve the ultimate mystery of nature. And that is because, in the last analysis, we ourselves are a part of the mystery that we are trying to solve."  
 > — Max Planck
 
