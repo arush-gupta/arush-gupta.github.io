@@ -11,6 +11,13 @@ main:
   - title: "Robotics"
     url: /robotics/
 
+  - title: "cmp"
+    url: /cmp/
+
+  - title: "Space Physics"
+    url: /spacephys/
+
+
   - title: "Publications"
     url: /publications/
 
