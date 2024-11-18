@@ -8,8 +8,11 @@ main:
   - title: "Podcast"
     url: /podcast/
 
-  - title: "Tools to do Science, Technology & Engineering"
-    url: /toolsforstem/
+  - title: "My Scientific Lens"
+    url: /lens/
+
+  - title: "Thinking & Tools"
+    url: /thinkingtools/
 
   - title: "Robotics"
     url: /robotics/
@@ -19,7 +22,6 @@ main:
 
   - title: "Space Physics"
     url: /spacephys/
-
 
   - title: "Publications"
     url: /publications/
@@ -38,6 +40,4 @@ main:
     
   - title: "CV"
     url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+  
