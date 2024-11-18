@@ -8,11 +8,13 @@ redirect_from:
 ---
 
 
-Hi! if you are here to get to know me, you've come to the right place because I'm here to get to know myself as well haha! 
+Hi there! If you're here to get to know me, you've come to the right place because I'm here to get to know myself as well—haha!
 
-Here are a few things about me that you MUST KNOW, or else...
+Here are a few things you MUST KNOW, or else...
 
-1. I am NOT afraid to fail. To substantiate this, I can tell you that I have explored so many STEM topics that you can give a scientific paper from a domain that is virtually unknown to me, and I will be able to explain it to you within 6 hours with the help of some milk and coco pops!
+1.I am NOT afraid to fail. To substantiate this, I can tell you that I've taken courses across so many different fields, and I’ve come close to failing in some of them. (Sometimes I even wonder what kind of a flaw I have that I haven't actually managed to fail yet...)
+
+I've ventured into so many different areas of STEM that you could hand me a scientific paper from a domain I’ve never encountered before, and within just six hours (with the help of some milk and Coco Pops, of course!), I’ll be able to explain the key concepts and give you a rough understanding of the field!
 
 
 >"Science cannot solve the ultimate mystery of nature. And that is because, in the last analysis, we ourselves are a part of the mystery that we are trying to solve."  
