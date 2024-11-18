@@ -8,11 +8,14 @@ main:
   - title: "Podcast"
     url: /podcast/
 
+  - title: "Tools to do Science, Technology & Engineering"
+    url: /toolsforstem/
+
   - title: "Robotics"
     url: /robotics/
 
-  - title: "cmp"
-    url: /cmp/
+  - title: "Solid State Physics"
+    url: /ssp/
 
   - title: "Space Physics"
     url: /spacephys/
