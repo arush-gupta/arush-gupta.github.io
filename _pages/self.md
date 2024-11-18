@@ -1,0 +1,3 @@
+
+
+Don't let your sense of self-worth be defined by MIT. It does not mean shit...
