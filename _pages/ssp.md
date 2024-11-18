@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Phonons"
-permalink: /phonon/
+title: "Solid State Physics"
+permalink: /ssp/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-My work on Phonons
+My work in Solid State Physics
