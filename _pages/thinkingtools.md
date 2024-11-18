@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Tools for Science, Technology & Engineering"
-permalink: /toolsforstem/
+title: "Philosophy, Epistemology, and Tools"
+permalink: /thinkingtools/
 author_profile: true
 redirect_from:
   - /resume
