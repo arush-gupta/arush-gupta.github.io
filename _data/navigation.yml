@@ -26,6 +26,9 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Classes"
+    url: /classes/
+
   - title: "Talks"
     url: /talks/    
 
