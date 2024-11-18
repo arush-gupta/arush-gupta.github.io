@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 >"Science cannot solve the ultimate mystery of nature. And that is because, in the last analysis, we ourselves are a part of the mystery that we are trying to solve."
-> - Max Planck
+> — Max Planck
 
 > "If you eliminate the impossible, whatever remains, however improbable, must be the truth."  
 > — Sherlock Holmes
