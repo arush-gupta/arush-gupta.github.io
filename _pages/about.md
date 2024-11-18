@@ -6,4 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello hello hello!
+
+"Science cannot solve the ultimate mystery of nature. And that is because, in the last analysis, we ourselves are a part of the mystery that we are trying to solve."
+
+- Max Planck
