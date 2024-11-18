@@ -1,0 +1,12 @@
+---
+layout: archive
+title: "CMP"
+permalink: /cmp/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
+
+My work in Condensed Matter Physics
