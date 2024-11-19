@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* M.Sc. in Physics, Imperial College of Science, Technology and Medicine, 2024
-* M.Tech. in Electrical Engineering, Indian Insitute of Technology Bombay, 2021
-* B.Tech. in Mechanical Engineering, Indian Insitute of Technology Bombay, 2020
+* M.Sc. in Physics, Imperial College of Science, Technology and Medicine, 2023 - 2024
+* M.Tech. in Electrical Engineering, Indian Insitute of Technology Bombay, 2020 - 2021
+* B.Tech. in Mechanical Engineering, Indian Insitute of Technology Bombay, 2016 - 2020
 
 Development of teaching methodologies
 ======
