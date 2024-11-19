@@ -14,7 +14,7 @@ Here are a few things you MUST KNOW about me, or else...🔪🔪🔪
 
 1. I am NOT afraid to fail MUAHAHAHAH.
 >To substantiate this, I can tell you that I've taken courses across so many different fields, and I’ve come close to failing in some of them. (Sometimes I even wonder what kind of a flaw I have that I haven't actually managed to fail yet...)
->>I've ventured into so many different areas of STEM that you could hand me a scientific paper from a domain I’ve never encountered before, and within just six hours (with the help of some milk and Coco Pops, of course!), I’ll be able to explain the key concepts and give you a rough understanding of the field!
+>>I've ventured into so many different areas of STEM that you could hand me a scientific paper from a domain I’ve never encountered before, and within just six hours (with the help of some milk and Coco Pops, of course!), I’ll be able to explain the key concepts of the paper and give you a rough understanding of the field!
 
 2. 
 
