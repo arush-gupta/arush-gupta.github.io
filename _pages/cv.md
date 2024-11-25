@@ -15,6 +15,18 @@ Education
 * M.Tech. in Electrical Engineering, Indian Insitute of Technology Bombay, 2020 - 2021
 * B.Tech. in Mechanical Engineering, Indian Insitute of Technology Bombay, 2016 - 2020
 
+# Work Experience
+
+### Project Research Associate  
+*Systems & Control Engineering Group, Department of Electrical Engineering, IIT Bombay | March - June 2022*  
+Minimally guided project focusing on the mathematical modeling of collision avoidance routines for autonomous bots:  
+
+- Created a game-theoretic model for self-driving bots inspired by human kinematic behavior in crowded settings.  
+- Designed optimal collision avoidance strategies using stochastic Bernoulli random walks under distributed control algorithms.  
+- Parametrized routines to enhance safety and maneuverability in autonomous navigation.  
+
+> *Note*: Due to unforeseen circumstances during my tenure, my contributions may not fully represent my capabilities. However, I remain determined to demonstrate my true potential.
+
 # Development of Teaching Methodologies
 
 - **2020 - 2024**: Deep dive into learning frameworks: education psychology and social psychology  
@@ -51,19 +63,7 @@ Conducted weekly tutorial sessions and graded answer sheets:
 
 ---
 
-# Work Experience
 
-### Project Research Associate  
-*Systems & Control Engineering Group, Department of Electrical Engineering, IIT Bombay | March - June 2022*  
-Minimally guided project focusing on the mathematical modeling of collision avoidance routines for autonomous bots:  
-
-- Created a game-theoretic model for self-driving bots inspired by human kinematic behavior in crowded settings.  
-- Designed optimal collision avoidance strategies using stochastic Bernoulli random walks under distributed control algorithms.  
-- Parametrized routines to enhance safety and maneuverability in autonomous navigation.  
-
-> *Note*: Due to unforeseen circumstances during my tenure, my contributions may not fully represent my capabilities. However, I remain determined to demonstrate my true potential.  
-Key Featur
-  
 Skills
 ======
 * Skill 1
