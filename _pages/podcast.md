@@ -13,11 +13,11 @@ Breaking down complex STEM topics and eliminating jargon barriers through candid
 
 I’ll be inviting researchers from around the world to share their insights and personal stories, making science relatable and engaging.
 
-# My most recent conversation with Santanu Rathod, an ELLIS PhD Student at CISPA-Helmholtz and University of Cambridge
+## My most recent conversation with Santanu Rathod, an ELLIS PhD Student at CISPA-Helmholtz and University of Cambridge
 
 <div class="video-container">
   <iframe width="560" height="315" 
-          src="https://youtu.be/_7bGl4EQ40M" 
+          src="https://www.youtube.com/watch?v=_7bGl4EQ40M" 
           frameborder="0" 
           allowfullscreen>
   </iframe>
