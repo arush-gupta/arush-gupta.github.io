@@ -15,43 +15,54 @@ Education
 * M.Tech. in Electrical Engineering, Indian Insitute of Technology Bombay, 2020 - 2021
 * B.Tech. in Mechanical Engineering, Indian Insitute of Technology Bombay, 2016 - 2020
 
-Development of teaching methodologies
-======
-* 2020 - 2024: Deep dive into learning frameworks: education psychology and social psychology
-  * Works of Alfie Kohn, Noam Chomsky, and Prof KG Suresh
+# Development of Teaching Methodologies
 
-Teaching Experience
-• Department of Electrical Engineering, IIT Bombay Aug 2020 - May 2021
-Teaching Assistant | Weekly tutorial sessions & grading answer sheets
-- EE724: Nanoelectronics [Recognition for excellence in teaching assistantship (Link)] Spring 2020-21
-- EE101: Introduction to Electrical and Electronics Circuits Autumn 2020-21
+- **2020 - 2024**: Deep dive into learning frameworks: education psychology and social psychology  
+  - Studied works by Alfie Kohn, Noam Chomsky, and Prof. K.G. Suresh  
 
-Talks
-• Introduction to Quantum Computing (Links: [Talk Presentation])
-Quarantalks by Maths and Physics Club, IIT Bombay 08 May 2020
-Using an abstract example of the Deutsch-Jozsa algorithm, explained the difference in the working paradigms of
-quantum and classical computing in a talk to first and second year undergraduates.
-- Introduced quantum computing fundamentals with the Deutsch-Jozsa algorithm to first-year undergraduates.
-- Delivered the first talk in a series of talks for first and second year undergraduates to illustrate the difference in the
-working paradigms of quantum computing and that of classical computing, using an example of the Deutsch-Jozsa
-algorithm.
-• Let’s Go Quantum: Applications of Quantum Physics (Links: [Talk Presentation])
-IIT Bombay R&D expo 2019 20 Oct 2019
-- Delivered a talk to illustrate applications of quantum physics.
-Introduced field concepts to early undergrads, minimizing complex math for accessibility
+---
 
-Work experience
-======
-March - June 2022: Project Research Associate, Systems & Control Engineering Group, Department of Electrical Engineering, IIT Bombay
+# Teaching Experience
 
-* Minimally guided project: Mathematical modelling of collision avoidance routines for autonomous bots, optimising
-path-correction strategies to enhance safety and manoeuvrability:
-  * Inspired by human kinematic behaviour in walking crowds , created a game-theoretic model for self-driving bots
-operating under a distributed control algorithm using stochastic, symmetric Bernoulli random walks.
-  * Parametrised optimal collision avoidance routines to improve autonomous navigation effectiveness.
-Note: Due to unforeseen circumstances during my tenure, my contributions may not fully represent my capabilities. Nevertheless, I
-remain determined to demonstrate my true potential.
+### Department of Electrical Engineering, IIT Bombay  
+**Teaching Assistant** | Aug 2020 - May 2021  
+Conducted weekly tutorial sessions and graded answer sheets:  
 
+- **EE724: Nanoelectronics**  
+  *Spring 2020-21*  
+  - Received *Recognition for Excellence in Teaching Assistantship* ([Link](#))  
+
+- **EE101: Introduction to Electrical and Electronics Circuits**  
+  *Autumn 2020-21*  
+
+---
+
+# Talks
+
+### Introduction to Quantum Computing  
+*Quarantalks by Maths and Physics Club, IIT Bombay | 08 May 2020*  
+- Delivered a talk introducing quantum computing fundamentals using the Deutsch-Jozsa algorithm.  
+- Highlighted the differences between quantum and classical computing paradigms to first and second-year undergraduates.  
+
+### Let’s Go Quantum: Applications of Quantum Physics  
+*IIT Bombay R&D Expo 2019 | 20 Oct 2019*  
+- Illustrated applications of quantum physics in an accessible manner for early undergraduates.  
+- Simplified complex mathematical concepts to make quantum physics approachable.  
+
+---
+
+# Work Experience
+
+### Project Research Associate  
+*Systems & Control Engineering Group, Department of Electrical Engineering, IIT Bombay | March - June 2022*  
+Minimally guided project focusing on the mathematical modeling of collision avoidance routines for autonomous bots:  
+
+- Created a game-theoretic model for self-driving bots inspired by human kinematic behavior in crowded settings.  
+- Designed optimal collision avoidance strategies using stochastic Bernoulli random walks under distributed control algorithms.  
+- Parametrized routines to enhance safety and maneuverability in autonomous navigation.  
+
+> *Note*: Due to unforeseen circumstances during my tenure, my contributions may not fully represent my capabilities. However, I remain determined to demonstrate my true potential.  
+Key Featur
   
 Skills
 ======
