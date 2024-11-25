@@ -13,7 +13,8 @@ Breaking down complex STEM topics and eliminating jargon barriers through candid
 
 I’ll be inviting researchers from around the world to share their insights and personal stories, making science relatable and engaging.
 
-## My most recent conversation with Santanu Rathod, an ELLIS PhD Student at CISPA-Helmholtz and University of Cambridge
+## AI: Modelling Nature, Emergence, Human-AI Connection, and the Meaning of Intelligence
+### My most recent conversation with Santanu Rathod, an ELLIS PhD Student at CISPA-Helmholtz and University of Cambridge
 
 <div class="video-container">
   <iframe width="560" height="315" 
