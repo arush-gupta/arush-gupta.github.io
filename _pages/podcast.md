@@ -18,7 +18,7 @@ I’ll be inviting researchers from around the world to share their insights and
 
 <div class="video-container">
   <iframe width="560" height="315" 
-          src="https://www.youtube.com/watch?v=_7bGl4EQ40M" 
+          src="https://www.youtube.com/embed/_7bGl4EQ40M" 
           frameborder="0" 
           allowfullscreen>
   </iframe>
