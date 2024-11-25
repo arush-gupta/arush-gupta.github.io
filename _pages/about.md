@@ -7,16 +7,17 @@ redirect_from:
   - /about.html
 ---
 
+Hi there! If you’re here to learn more about me, you’re in the right place—because I’m still learning about myself too. 😄  
 
-Hi there! If you're here to get to know me, you've come to the right place because I'm here to get to know myself as well—haha!
+## A Few Fun Facts About Me (You *must* know these… or else! 🔪):  
 
-Here are a few things you MUST KNOW about me, or else...🔪🔪🔪
+### 1. I’m not afraid to fail.  
+In fact, I embrace it! I’ve taken courses across so many different fields, pushing myself to the edge of my limits. I’ve come close to failing some of them (and honestly, I’m still wondering what twist of fate has kept me from actually failing—yet).  
 
-1. I am NOT afraid to fail MUAHAHAHAH.
->To substantiate this, I can tell you that I've taken courses across so many different fields, and I’ve come close to failing in some of them. (Sometimes I even wonder what kind of a flaw I have that I haven't actually managed to fail yet...)
->>I've ventured into so many different areas of STEM that you could hand me a scientific paper from a domain I’ve never encountered before, and within just six hours (with the help of some milk and Coco Pops, of course!), I’ll be able to explain the key concepts of the paper and give you a rough understanding of the field!
+### 2. I’m a quick study across STEM disciplines.  
+Hand me a scientific paper from a field I’ve never encountered before, and give me six hours (and a bowl of Coco Pops 🥣), and I’ll give you a summary of the key concepts and a rough understanding of the domain.  
 
-2. 
+Quotable quotes:
 
 >"Science cannot solve the ultimate mystery of nature. And that is because, in the last analysis, we ourselves are a part of the mystery that we are trying to solve."  
 > — Max Planck
