@@ -13,6 +13,8 @@ I am Arush Gupta, a researcher focused on **AI, Cognitive Science, and Robotics*
 - **Multi-Agent Learning**: Modeling interactions between collaborative and competitive agents.
 - **Game Theory**: Enhancing system optimization through game-theoretic approaches.
 
+
+---
 # Education
 * M.Sc. in Physics, Imperial College of Science, Technology and Medicine (Merit)
 * M.Tech. in Electrical Engineering, Indian Insitute of Technology Bombay (8.81/10.0)
