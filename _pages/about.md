@@ -9,12 +9,6 @@ redirect_from:
 
 I am Arush Gupta, a passionate researcher in **AI, Cognitive Science, and Robotics**. Here, you can explore my work in these fields, view my publications, and learn more about my ongoing projects.
 
-- [Research Interests](/research-interests/)
-- [Publications](/publications/)
-- [Projects](/projects/)
-- [Education](/education/)
-
-[Contact Me](/contact/)
 
 # Research Interests
 
@@ -29,6 +23,7 @@ I am interested in the intersection of **Cognitive-inspired AI**, **Multi-Agent 
 - **Optimization in Multi-Agent Systems**
 - **Distributed Decision Making in Robotics**
  
+
 
 ## A Few Fun Facts About Me (You *must* know these… or else! 🔪):  
 
