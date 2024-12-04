@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "This is a website where I share all of my research in an open-access manner."
+title: "About moi"
 author_profile: true
 redirect_from: 
   - /about/
@@ -16,6 +16,8 @@ In fact, I embrace it! I’ve taken courses across so many different fields, pus
 
 ### 2. I’m a quick study across STEM disciplines.  
 Hand me a scientific paper from a field I’ve never encountered before, and give me six hours (and a bowl of Coco Pops 🥣), and I’ll give you a summary of the key concepts and a rough understanding of the domain.  
+
+
 
 Quotable quotes:
 
