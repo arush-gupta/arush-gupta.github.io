@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# Welcome to My Portfolio
-
 I am Arush Gupta, a passionate researcher in **AI, Cognitive Science, and Robotics**. Here, you can explore my work in these fields, view my publications, and learn more about my ongoing projects.
 
 - [Research Interests](/research-interests/)
