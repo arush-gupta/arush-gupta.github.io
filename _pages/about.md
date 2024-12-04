@@ -19,7 +19,7 @@ I am Arush Gupta, a researcher focused on **AI, Cognitive Science, and Robotics*
 ## Ongoing Research:
 - **Optimization in Multi-Agent Systems**
 - **Distributed Decision Making in Robotics**
-- 
+
  Education
 ======
 * M.Sc. in Physics, Imperial College of Science, Technology and Medicine, 2023 - 2024 (Merit)
