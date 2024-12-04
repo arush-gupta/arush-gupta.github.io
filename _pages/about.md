@@ -16,7 +16,6 @@ I am interested in the intersection of **Cognitive-inspired AI**, **Multi-Agent 
 - **Cognitive-Inspired AI**: Exploring human-like cognitive processes for intelligent decision-making.
 - **Multi-Agent Learning**: Modeling collaborative and competitive interactions between agents.
 - **Game Theory**: Applying game-theoretic concepts to enhance system optimization and strategy.
-- **Neuromorphic Computing**: Creating hardware-based models of neural processes for efficient computation.
 
 ## Ongoing Research Projects:
 - **Optimization in Multi-Agent Systems**
