@@ -6,11 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
----
-layout: default
-title: Research Interests
-permalink: /research-interests/
----
+
 
 # Research Interests
 
