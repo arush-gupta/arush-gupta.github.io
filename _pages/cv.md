@@ -9,15 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* M.Sc. in Physics, Imperial College of Science, Technology and Medicine, 2023 - 2024 (Merit)
-* M.Tech. in Electrical Engineering, Indian Insitute of Technology Bombay, 2020 - 2021 (8.81/10.0)
-* B.Tech. in Mechanical Engineering, Indian Insitute of Technology Bombay, 2016 - 2020 (8.81/10.0)
 
-## Test Scores:
-- IIT-JEE: Rank 923 (2016) amidst 1.2 million candidates
-- IIT-JEE: Rank 923 (2016) amidst 1.2 million candidates
 
 # Work Experience
 
