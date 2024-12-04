@@ -24,10 +24,10 @@ I am Arush Gupta, a researcher focused on **AI, Cognitive Science, and Robotics*
 - IIT-JEE: Rank 12024 (2015) amidst 1.2 million candidates
 
 
-## A Few Fun Facts About Me (You *must* know these… or else! 🔪):  
+## A Few Fun Facts About My Competence (You *must* know these… or else! 🔪):  
 
-### 1. I’m not afraid to fail.  
-In fact, I embrace it! I’ve taken courses across so many different fields, pushing myself to the edge of my limits. I’ve come close to failing some of them (and honestly, I’m still wondering what twist of fate has kept me from actually failing—yet).  
+### 1. I’m not afraid to fail (Makes me resilient and adaptable)  
+In fact, I embrace it! I’ve taken courses across so many different fields, pushing myself to the edge of my limits. I’ve come close to failing some of them (and honestly, I’m still wondering what twist of fate has kept me from actually failing—yet).
 
 ### 2. I’m a quick study across STEM disciplines.  
 Hand me a scientific paper from a field I’ve never encountered before, and give me six hours (and a bowl of Coco Pops 🥣), and I’ll give you a summary of the key concepts and a rough understanding of the domain.  
