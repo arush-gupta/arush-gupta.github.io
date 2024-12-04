@@ -25,7 +25,6 @@ Minimally guided project focusing on the mathematical modeling of collision avoi
 - Designed optimal collision avoidance strategies using stochastic Bernoulli random walks under distributed control algorithms.  
 - Parametrized routines to enhance safety and maneuverability in autonomous navigation.  
 
-> *Note*: Due to unforeseen circumstances during my tenure, my contributions may not fully represent my capabilities. However, I remain determined to demonstrate my true potential.
 
 # Development of Teaching Methodologies
 
