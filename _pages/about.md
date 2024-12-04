@@ -8,12 +8,10 @@ redirect_from:
 ---
 
 I am Arush Gupta, a researcher focused on **AI, Cognitive Science, and Robotics**. Explore my work in these fields, view my publications, and learn about my ongoing projects.
-
 ## Key Focus Areas:
 - **Cognitive-Inspired AI**: Exploring human-like cognitive processes for decision-making.
 - **Multi-Agent Learning**: Modeling interactions between collaborative and competitive agents.
 - **Game Theory**: Enhancing system optimization through game-theoretic approaches.
-
 ## Ongoing Research:
 - **Optimization in Multi-Agent Systems**
 - **Distributed Decision Making in Robotics**
@@ -23,7 +21,6 @@ I am Arush Gupta, a researcher focused on **AI, Cognitive Science, and Robotics*
 * M.Sc. in Physics, Imperial College of Science, Technology and Medicine, 2023 - 2024 (Merit)
 * M.Tech. in Electrical Engineering, Indian Insitute of Technology Bombay, 2020 - 2021 (8.81/10.0)
 * B.Tech. in Mechanical Engineering, Indian Insitute of Technology Bombay, 2016 - 2020 (8.81/10.0)
-
 ## Test Scores:
 - IIT-JEE: Rank 923 (2016) amidst 1.2 million candidates
 - IIT-JEE: Rank 12024 (2015) amidst 1.2 million candidates
