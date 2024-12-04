@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Arush Gupta, a researcher focused on **AI, Cognitive Science, and Robotics**. Explore my work in these fields, view my publications, and learn about my ongoing projects.
+I am Arush Gupta, a researcher focused on **AI, Cognitive Science, and Robotics**. 
 ## Key Focus Areas:
 - **Cognitive-Inspired AI**: Exploring human-like cognitive processes for decision-making.
 - **Multi-Agent Learning**: Modeling interactions between collaborative and competitive agents.
