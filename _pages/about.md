@@ -7,22 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-I am Arush Gupta, a passionate researcher in **AI, Cognitive Science, and Robotics**. Here, you can explore my work in these fields, view my publications, and learn more about my ongoing projects.
-
-
 # Research Interests
 
-I am interested in the intersection of **Cognitive-inspired AI**, **Multi-Agent Learning**, and **Game Theory**. I aim to develop adaptive algorithms that mimic emergent behaviors in multi-agent systems with applications in robotics, cognitive science, and AI.
+I am Arush Gupta, a researcher focused on **AI, Cognitive Science, and Robotics**. Explore my work in these fields, view my publications, and learn about my ongoing projects.
 
 ## Key Focus Areas:
-- **Cognitive-Inspired AI**: Exploring human-like cognitive processes for intelligent decision-making.
-- **Multi-Agent Learning**: Modeling collaborative and competitive interactions between agents.
-- **Game Theory**: Applying game-theoretic concepts to enhance system optimization and strategy.
+- **Cognitive-Inspired AI**: Exploring human-like cognitive processes for decision-making.
+- **Multi-Agent Learning**: Modeling interactions between collaborative and competitive agents.
+- **Game Theory**: Enhancing system optimization through game-theoretic approaches.
 
-## Ongoing Research Projects:
+## Ongoing Research:
 - **Optimization in Multi-Agent Systems**
 - **Distributed Decision Making in Robotics**
-
+- 
  Education
 ======
 * M.Sc. in Physics, Imperial College of Science, Technology and Medicine, 2023 - 2024 (Merit)
