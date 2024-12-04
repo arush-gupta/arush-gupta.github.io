@@ -15,6 +15,10 @@ Education
 * M.Tech. in Electrical Engineering, Indian Insitute of Technology Bombay, 2020 - 2021 (8.81/10.0)
 * B.Tech. in Mechanical Engineering, Indian Insitute of Technology Bombay, 2016 - 2020 (8.81/10.0)
 
+## Test Scores:
+- IIT-JEE: Rank 923 (2016) amidst 1.2 million candidates
+- IIT-JEE: Rank 923 (2016) amidst 1.2 million candidates
+
 # Work Experience
 
 ### Project Research Associate  
@@ -60,36 +64,3 @@ Conducted weekly tutorial sessions and graded answer sheets:
 - Illustrated applications of quantum physics in an accessible manner for early undergraduates.  
 - Simplified complex mathematical concepts to make quantum physics approachable.  
 
----
-
-
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
