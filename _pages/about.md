@@ -31,7 +31,7 @@ I am interested in the intersection of **Cognitive-inspired AI**, **Multi-Agent 
 
 ## Test Scores:
 - IIT-JEE: Rank 923 (2016) amidst 1.2 million candidates
-- IIT-JEE: Rank 923 (2016) amidst 1.2 million candidates
+- IIT-JEE: Rank 12024 (2015) amidst 1.2 million candidates
 
 
 ## A Few Fun Facts About Me (You *must* know these… or else! 🔪):  
