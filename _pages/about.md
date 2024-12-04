@@ -22,7 +22,16 @@ I am interested in the intersection of **Cognitive-inspired AI**, **Multi-Agent 
 ## Ongoing Research Projects:
 - **Optimization in Multi-Agent Systems**
 - **Distributed Decision Making in Robotics**
- 
+
+ Education
+======
+* M.Sc. in Physics, Imperial College of Science, Technology and Medicine, 2023 - 2024 (Merit)
+* M.Tech. in Electrical Engineering, Indian Insitute of Technology Bombay, 2020 - 2021 (8.81/10.0)
+* B.Tech. in Mechanical Engineering, Indian Insitute of Technology Bombay, 2016 - 2020 (8.81/10.0)
+
+## Test Scores:
+- IIT-JEE: Rank 923 (2016) amidst 1.2 million candidates
+- IIT-JEE: Rank 923 (2016) amidst 1.2 million candidates
 
 
 ## A Few Fun Facts About Me (You *must* know these… or else! 🔪):  
@@ -32,6 +41,7 @@ In fact, I embrace it! I’ve taken courses across so many different fields, pus
 
 ### 2. I’m a quick study across STEM disciplines.  
 Hand me a scientific paper from a field I’ve never encountered before, and give me six hours (and a bowl of Coco Pops 🥣), and I’ll give you a summary of the key concepts and a rough understanding of the domain.  
+
 
 
 
