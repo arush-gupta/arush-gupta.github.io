@@ -10,7 +10,7 @@ redirect_from:
 
 # Research Interests
 
-I am deeply interested in the intersection of **Cognitive-inspired AI**, **Multi-Agent Learning**, **Game Theory**, and **Neuromorphic Computing**. I aim to develop adaptive algorithms that mimic emergent behaviors in multi-agent systems with applications in robotics, cognitive science, and AI.
+I am interested in the intersection of **Cognitive-inspired AI**, **Multi-Agent Learning**, and **Game Theory**. I aim to develop adaptive algorithms that mimic emergent behaviors in multi-agent systems with applications in robotics, cognitive science, and AI.
 
 ## Key Focus Areas:
 - **Cognitive-Inspired AI**: Exploring human-like cognitive processes for intelligent decision-making.
