@@ -6,8 +6,26 @@ redirect_from:
   - /about/
   - /about.html
 ---
+---
+layout: default
+title: Research Interests
+permalink: /research-interests/
+---
 
-Hi there! If you’re here to learn more about me, you’re in the right place—because I’m still learning about myself too. 😄  
+# Research Interests
+
+I am deeply interested in the intersection of **Cognitive-inspired AI**, **Multi-Agent Learning**, **Game Theory**, and **Neuromorphic Computing**. I aim to develop adaptive algorithms that mimic emergent behaviors in multi-agent systems with applications in robotics, cognitive science, and AI.
+
+## Key Focus Areas:
+- **Cognitive-Inspired AI**: Exploring human-like cognitive processes for intelligent decision-making.
+- **Multi-Agent Learning**: Modeling collaborative and competitive interactions between agents.
+- **Game Theory**: Applying game-theoretic concepts to enhance system optimization and strategy.
+- **Neuromorphic Computing**: Creating hardware-based models of neural processes for efficient computation.
+
+## Ongoing Research Projects:
+- **Optimization in Multi-Agent Systems**
+- **Distributed Decision Making in Robotics**
+ 
 
 ## A Few Fun Facts About Me (You *must* know these… or else! 🔪):  
 
