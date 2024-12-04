@@ -14,9 +14,9 @@ I am Arush Gupta, a researcher focused on **AI, Cognitive Science, and Robotics*
 - **Game Theory**: Enhancing system optimization through game-theoretic approaches.
 
 # Education
-* M.Sc. in Physics, Imperial College of Science, Technology and Medicine
-* M.Tech. in Electrical Engineering, Indian Insitute of Technology Bombay
-* B.Tech. in Mechanical Engineering, Indian Insitute of Technology Bombay
+* M.Sc. in Physics, Imperial College of Science, Technology and Medicine (Merit)
+* M.Tech. in Electrical Engineering, Indian Insitute of Technology Bombay (8.81/10.0)
+* B.Tech. in Mechanical Engineering, Indian Insitute of Technology Bombay (8.81/10.0)
 ## Test Scores:
 - IIT-JEE: Rank 923 (2016) amidst 1.2 million candidates
 - IIT-JEE: Rank 12024 (2015) amidst 1.2 million candidates
