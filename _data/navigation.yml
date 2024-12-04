@@ -5,12 +5,14 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "CV"
-    url: /cv/
+
     
   - title: "Podcast"
     url: /podcast/
 
+  - title: "Projects"
+    url: /cv/
+    
   - title: "Self-Discovery"
     url: /travelling/
 
@@ -19,18 +21,6 @@ main:
 
   - title: "Thinking & Tools"
     url: /thinkingtools/
-
-  - title: "Robotics"
-    url: /robotics/
-
-  - title: "Solid State Physics"
-    url: /ssp/
-
-  - title: "Space Physics"
-    url: /spacephys/
-
-  - title: "Publications"
-    url: /publications/
 
   - title: "Classes"
     url: /classes/
