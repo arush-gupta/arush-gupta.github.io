@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "About me"
+title: "Research Interests and Competence"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# Research Interests
 
 I am Arush Gupta, a researcher focused on **AI, Cognitive Science, and Robotics**. Explore my work in these fields, view my publications, and learn about my ongoing projects.
 
