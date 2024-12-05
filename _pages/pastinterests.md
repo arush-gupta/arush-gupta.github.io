@@ -11,6 +11,6 @@ Evolution of interests
 Thermodynamics -> Quantum Statistics, Emergence, Quantum Information -> Topological Quantum Computation -> Quantum computing -> brain might be a quantum computer -> psychology and cognitive science
 
 
-#Thermodynamics to Quantum Statistics
+# Thermodynamics to Quantum Statistics
 
 Studying thermal and statistical physics had a profound impact on me as 
