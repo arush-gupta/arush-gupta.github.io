@@ -19,6 +19,27 @@ I am Arush Gupta, a researcher focused on **AI, Cognitive Science, and Robotics*
 * MSc in **Physics**, Imperial College of Science Technology and Medicine (Merit)
 * MTech in **Electrical Engineering**, Indian Insitute of Technology Bombay (8.81/10.0)
 * BTech in **Mechanical Engineering**, Indian Insitute of Technology Bombay (8.81/10.0)
+
+### Courses
+#### Imperial College London:
+- **Mathematical Methods for Physicists**: A  
+- **Research Computing Skills for Physicists**: A  
+- **Information Theory**: B  
+- **Neural Network-based Data Compression** (Self-Study Project): A  
+
+#### IIT Bombay:
+- **Sociology**: 9/10  
+- **CS101 (C++)** (Prof. Sunita Sarawagi): 10/10  
+- **AE102 (Python-based Data Analysis)** (Prof. Prabhu Ramachandran): 9/10  
+- **Microprocessors and Automatic Control**: 10/10  
+- **Calculus**: 8/10  
+- **Linear Algebra**: 10/10  
+- **Differential Equations**: 10/10  
+- **Industrial Engineering and Operations Research**: 8/10  
+
+#### Additional:
+- **DeepLearning.AI Neural Networks & Deep Learning**: 94.43%  
+
 ## Test Scores:
 - IIT-JEE: Rank 923 (2016) amidst 1.2 million candidates
 - IIT-JEE: Rank 12024 (2015) amidst 1.2 million candidates
