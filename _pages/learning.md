@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Learning = Discovery"
+title: "Learning = Exploration and Subsequent Discovery"
 permalink: /learning/
 author_profile: true
 redirect_from:
