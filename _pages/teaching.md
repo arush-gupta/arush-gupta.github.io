@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching = Inspiration"
+title: "Teaching (verb) = Inspiring (verb)"
 permalink: /teaching/
 author_profile: true
 redirect_from:
