@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Self-Discovery"
-permalink: /travelling/
+title: "Learning = Discovery"
+permalink: /learning/
 author_profile: true
 redirect_from:
   - /resume
@@ -22,4 +22,7 @@ During the two-year gap in my academic journey, I spent a significant amount of 
 At first, turbulence was a source of anxiety. But with frequent travel, I grew accustomed to it, even learning to enjoy it. While many passengers would scream or feel unnerved, I found a sense of calm in the unpredictability, a moment of quiet thrill as the plane rocked and swayed. It was a reminder that, much like turbulence, challenges in life and research can be unsettling at first but often lead to personal growth and a deeper appreciation for the journey itself.
 
 This time away from the academic world gave me valuable insights, not just into the world around me but also into my own ability to adapt, embrace uncertainty, and find joy in the process of navigating the unknown.
+
+#My Scientific Lens   
+How my experiences inform my perspectives on analysing the physical world
 
