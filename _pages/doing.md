@@ -7,7 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
-Tools I use to do Science, Technology, & Engineering
+#My Scientific Lens   
+How my experiences inform my perspectives on analysing the physical world
+
+#Tools I use to do Science, Technology, & Engineering
 
 During my time away from formal academia, I used the opportunity to refine my critical thinking skills through extensive travel and self-study. One of the most impactful areas I explored was Alfie Kohn’s research on educational psychology. Kohn’s work on motivation, learning, and the importance of autonomy deeply resonated with my interests in learning algorithms and systems.
 
