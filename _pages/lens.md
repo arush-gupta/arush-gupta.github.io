@@ -9,4 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-How my experiences inform my perspectives on analysing the physical world
+  - title: "Talks"
+    url: /talks/    
+      - title: ""
+    url: /lens/
+ 
+
