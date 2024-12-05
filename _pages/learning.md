@@ -23,6 +23,15 @@ At first, turbulence was a source of anxiety. But with frequent travel, I grew a
 
 This time away from the academic world gave me valuable insights, not just into the world around me but also into my own ability to adapt, embrace uncertainty, and find joy in the process of navigating the unknown.
 
-#My Scientific Lens   
-How my experiences inform my perspectives on analysing the physical world
+
+
+
+#Courses
+Linear Algebra
+Differential Equations
+Calculus
+Numerical Methods
+
+Introduction to Computer Science
+
 
