@@ -6,7 +6,9 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+>"There is no teaching—there is only inspiration to learn"  
+> — WFG Swann
+>---
 {% include base_path %}
 
 
