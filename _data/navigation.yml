@@ -11,7 +11,7 @@ main:
     url: /podcast/
 
   - title: "Projects"
-    url: /cv/
+    url: /projects/
     
   - title: "Learning"
     url: /learning/
