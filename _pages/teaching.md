@@ -8,7 +8,6 @@ redirect_from:
 ---
 >"There is no teaching—there is only inspiration to learn"  
 > — WFG Swann
->---
 {% include base_path %}
 
 
