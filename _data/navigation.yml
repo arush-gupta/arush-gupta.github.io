@@ -16,21 +16,12 @@ main:
   - title: "Learning"
     url: /travelling/
 
-  - title: "My Scientific Lens"
-    url: /lens/
-
   - title: "Teaching"
     url: /thinkingtools/
 
   - title: "Classes"
     url: /classes/
 
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
   - title: "Portfolio"
     url: /portfolio/
         
