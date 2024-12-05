@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Philosophy, Epistemology, and Tools"
-permalink: /thinkingtools/
+title: "Teaching = Inspiration"
+permalink: /teaching/
 author_profile: true
 redirect_from:
   - /resume
