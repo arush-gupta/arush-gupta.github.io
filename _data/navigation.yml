@@ -22,8 +22,8 @@ main:
   - title: "Doing"
     url: /doing/
 
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Past Interests"
+    url: /pastinterests/
         
   - title: "Blog Posts"
     url: /year-archive/
