@@ -8,28 +8,37 @@ redirect_from:
 ---
 
 I am Arush Gupta, and I am training myself to be a researcher and a professor.
+
 ---
+
 My research interests are in **AI, Cognitive Science, and Robotics**. 
 ## Key Focus Areas:
 - **Cognitive-Inspired AI**: Exploring human-like cognitive processes for decision-making.
 - **Multi-Agent Learning**: Modeling interactions between collaborative and competitive agents.
 - **Game Theory**: Enhancing system optimization through game-theoretic approaches.
+  
 ---
+
 Here is a (very) brief statement about my teaching philosophy - [Teaching Statement](files/Teaching_Statement_Arush_Gupta(4).pdf)
+
 ---
+
 # Education
 * MSc in **Physics**, Imperial College of Science Technology and Medicine (Merit)
 * MTech in **Electrical Engineering**, Indian Insitute of Technology Bombay (8.81/10.0)
 * BTech in **Mechanical Engineering**, Indian Insitute of Technology Bombay (8.81/10.0)
 
 ### Courses
+
 #### Imperial College London:
+
 - **Mathematical Methods for Physicists**: A  
 - **Research Computing Skills for Physicists**: A  
 - **Information Theory**: B  
 - **Neural Network-based Data Compression** (Self-Study Project): A  
 
 #### IIT Bombay:
+
 - **Sociology**: 9/10  
 - **CS101 (C++)** (Prof. Sunita Sarawagi): 10/10  
 - **AE102 (Python-based Data Analysis)** (Prof. Prabhu Ramachandran): 9/10  
@@ -40,9 +49,11 @@ Here is a (very) brief statement about my teaching philosophy - [Teaching Statem
 - **Industrial Engineering and Operations Research**: 8/10  
 
 #### Additional:
+
 - **DeepLearning.AI Neural Networks & Deep Learning**: 94.43%  
 
 ## Test Scores:
+
 - IIT-JEE: Rank 923 (2016) amidst 1.2 million candidates
 - IIT-JEE: Rank 12024 (2015) amidst 1.2 million candidates
 
