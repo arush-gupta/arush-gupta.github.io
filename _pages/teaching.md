@@ -40,9 +40,4 @@ Conducted weekly tutorial sessions and graded answer sheets:
 - Illustrated applications of quantum physics in an accessible manner for early undergraduates.  
 - Simplified complex mathematical concepts to make quantum physics approachable.  
 
-# Development of Teaching Methodologies
-
-- **2020 - 2024**: Deep dive into learning frameworks: education psychology and social psychology  
-  - Studied works by Alfie Kohn, Noam Chomsky, and Prof. K.G. Suresh  
-
 ---
