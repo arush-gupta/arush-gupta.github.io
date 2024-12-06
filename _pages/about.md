@@ -19,7 +19,7 @@ My research interests are in **AI, Cognitive Science, and Robotics**.
   
 ---
 
-Here is a (very) brief statement about my teaching philosophy - [Teaching Statement](files/Teaching_Statement_Arush_Gupta(4).pdf)
+Here is a (very) brief statement about my teaching philosophy - [Teaching Statement](files/Teaching_Statement_Arush_Gupta (4).pdf)
 
 ---
 
