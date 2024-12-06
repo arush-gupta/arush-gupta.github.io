@@ -7,12 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I am Arush Gupta, a researcher focused on **AI, Cognitive Science, and Robotics**. 
+I am Arush Gupta, and I am training myself to be a researcher and a professor. Here is a (very) brief statement about my teaching philosophy - [Teaching Statement](files/Teaching_Statement_Arush_Gupta(4).pdf)
+
+Ny research interests are in **AI, Cognitive Science, and Robotics**. 
 ## Key Focus Areas:
 - **Cognitive-Inspired AI**: Exploring human-like cognitive processes for decision-making.
 - **Multi-Agent Learning**: Modeling interactions between collaborative and competitive agents.
 - **Game Theory**: Enhancing system optimization through game-theoretic approaches.
 
+---
 
 ---
 # Education
