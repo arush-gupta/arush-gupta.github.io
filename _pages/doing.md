@@ -12,7 +12,7 @@ How my experiences inform my perspectives on analysing the physical world
 
 <div class="video-container">
   <iframe width="560" height="315" 
-          src="https://www.youtube.com/embed/w1ot30trtZY&t=112s" 
+          src="https://www.youtube.com/embed/w1ot30trtZY" 
           frameborder="0" 
           allowfullscreen>
   </iframe>
