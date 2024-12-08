@@ -24,3 +24,12 @@ I’ll be inviting researchers from around the world to share their insights and
   </iframe>
 </div>
 
+### My vision for the podcast
+
+<div class="video-container">
+  <iframe width="560" height="315" 
+          src="https://www.youtube.com/embed/UVzhr1ViXe8" 
+          frameborder="0" 
+          allowfullscreen>
+  </iframe>
+</div>
