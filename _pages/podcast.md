@@ -24,7 +24,9 @@ I’ll be inviting researchers from around the world to share their insights and
   </iframe>
 </div>
 
-### My vision for the podcast
+Upcoming episodes: grad student in AI (LLMs) from UC Berkeley, and grad student in neurobiology from CalTech
+
+## My vision for the podcast
 
 <div class="video-container">
   <iframe width="560" height="315" 
