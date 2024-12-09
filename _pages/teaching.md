@@ -14,6 +14,7 @@ redirect_from:
 1. Patrick Henry Winston (MIT) -> [Artificial Intelligence](https://youtu.be/TjZBTDzGeGg?si=uA3_9jhTWuvn4RRh)
 2. Robert Sapolsky (Stanford) -> [Human Behavioural Biology](https://youtu.be/NNnIGh9g6fA?si=hf99jXmY319q54Fl)
 3. V Balakrishnan (IIT Madras) -> [Classical Physics](https://youtu.be/Q6Gw08pwhws?si=S5SIU1OWZmCvqtY-)
+4. Anant Agarwal (MIT) -> [Circuits and Electronics](https://youtu.be/4TCnYYpZxEc?si=4UZY6KbkctRfSnhV)
 
 
 ---
