@@ -27,8 +27,8 @@ My most recent conversation with Santanu Rathod, an ELLIS PhD Student at CISPA-H
 </div>
 
 ## Upcoming episodes: 
-### grad student in AI (LLMs) from UC Berkeley - 18th December 2024
-### grad student in neurobiology from CalTech - 13th December 2024
+### PhD student in AI (LLMs) from UC Berkeley - 18th December 2024
+### PhD student in neurobiology from CalTech - 13th December 2024
 
 ## My vision for the podcast
 
