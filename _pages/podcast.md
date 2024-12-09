@@ -9,9 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-Breaking down complex STEM topics and eliminating jargon barriers through candid conversations. The goal is to empower young learners to make informed choices about their educational paths.
+Breaking down complex STEM topics and eliminating jargon barriers through candid conversations with researchers from around the world to share their insights and personal stories, making science relatable and engaging.
 
-I’ll be inviting researchers from around the world to share their insights and personal stories, making science relatable and engaging.
+The goal is to empower young learners to make informed choices about their educational paths.
+
 
 ## Episode 1 -> AI: Modelling Nature, Emergence, Human-AI Connection, and the Meaning of Intelligence
 
