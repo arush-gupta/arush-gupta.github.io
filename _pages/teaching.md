@@ -11,7 +11,7 @@ redirect_from:
 {% include base_path %}
 
 # Some of my favourite teachers on youtube: 
-1. Noam Chomsky (MIT) -> [Repudiating Behaviorism](https://youtu.be/OrQ0LfqxABM?si=if2vaKxqu8SCDMH1)
+1. Noam Chomsky (MIT) -> [Linguistics](https://youtu.be/OrQ0LfqxABM?si=if2vaKxqu8SCDMH1)
 2. Patrick Henry Winston (MIT) -> [Artificial Intelligence](https://youtu.be/TjZBTDzGeGg?si=uA3_9jhTWuvn4RRh)
 3. Robert Sapolsky (Stanford) -> [Human Behavioural Biology](https://youtu.be/NNnIGh9g6fA?si=hf99jXmY319q54Fl)
 4. V Balakrishnan (IIT Madras) -> [Classical Physics](https://youtu.be/Q6Gw08pwhws?si=S5SIU1OWZmCvqtY-)
