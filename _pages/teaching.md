@@ -28,6 +28,12 @@ Conducted weekly tutorial sessions and graded answer sheets:
 
 ---
 
+# Some of my favourite teachers on youtube: 
+1. Patrick Henry Winston (MIT) -> [Artificial Intelligence](https://youtu.be/TjZBTDzGeGg?si=uA3_9jhTWuvn4RRh)
+
+
+---
+
 # Talks
 
 ### Introduction to Quantum Computing  
