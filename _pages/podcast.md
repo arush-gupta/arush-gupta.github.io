@@ -24,7 +24,7 @@ I’ll be inviting researchers from around the world to share their insights and
   </iframe>
 </div>
 
-Upcoming episodes: grad student in AI (LLMs) from UC Berkeley, and grad student in neurobiology from CalTech
+## Upcoming episodes: grad student in AI (LLMs) from UC Berkeley, and grad student in neurobiology from CalTech
 
 ## My vision for the podcast
 
