@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am Arush Gupta, and I am training myself to be a researcher and a professor.
+I am Arush Gupta, and I am training myself to be a researcher and a professor. 
+
+I believe in the power of collaboration and value each individual as a sovereign thinker, capable of contributing unique perspectives to collective endeavors. This philosophy guides my approach to research, where respect for autonomy and intellectual freedom are foundational to fostering innovation and growth.
 
 ---
 
