@@ -15,6 +15,7 @@ I believe in the power of collaboration and value each individual as a sovereign
 This philosophy guides my approach to research, where respect for autonomy and intellectual freedom are foundational to fostering diverse perspectives, new angles of approach, and critical analyses of the problem at hand.
 
 Here is a (very) brief statement about my teaching philosophy - [Teaching Statement](files/Teaching_Statement_Arush_Gupta.pdf)
+
 ---
 
 # Research Interests and Competence
