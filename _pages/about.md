@@ -1,11 +1,12 @@
 ---
 permalink: /
-title: "Research Interests and Competence"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
 
 I am Arush Gupta, and I am training myself to be a researcher and a professor. 
 
@@ -13,7 +14,10 @@ I believe in the power of collaboration and value each individual as a sovereign
 
 This philosophy guides my approach to research, where respect for autonomy and intellectual freedom are foundational to fostering diverse perspectives, new angles of approach, and critical analyses of the problem at hand.
 
+Here is a (very) brief statement about my teaching philosophy - [Teaching Statement](files/Teaching_Statement_Arush_Gupta.pdf)
 ---
+
+# Research Interests and Competence
 
 My research interests are in **AI, Cognitive Science, Robotics, and Language and Information Technologies**. 
 ## Key Focus Areas:
@@ -23,10 +27,6 @@ My research interests are in **AI, Cognitive Science, Robotics, and Language and
 - **Human-Centered Language Models**: Designing AI systems that reflect the complexities of human communication.
 - **Cognitive and Computational Integration**: Bridging cognitive science with computational methods to advance language technologies.
 - **Game Theory**: Enhancing system optimization through game-theoretic approaches.
-  
----
-
-Here is a (very) brief statement about my teaching philosophy - [Teaching Statement](files/Teaching_Statement_Arush_Gupta.pdf)
 
 ---
 
