@@ -61,8 +61,8 @@ Here is a (very) brief statement about my teaching philosophy - [Teaching Statem
 
 ## Test Scores:
 
-- IIT-JEE: Rank 923 (2016) amidst 1.2 million candidates
-- IIT-JEE: Rank 12024 (2015) amidst 1.2 million candidates
+- IIT-JEE: All India Rank 923 (2016) amidst 1.2 million candidates
+- IIT-JEE: All India Rank 12024 (2015) amidst 1.2 million candidates
 
 
 ## A Few Fun Facts About My Competence (You *must* know these… or else! 🔪):  
