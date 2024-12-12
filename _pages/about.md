@@ -19,6 +19,9 @@ My research interests are in **AI, Cognitive Science, and Robotics**.
 ## Key Focus Areas:
 - **Cognitive-Inspired AI**: Exploring human-like cognitive processes for decision-making.
 - **Multi-Agent Learning**: Modeling interactions between collaborative and competitive agents.
+- **Emergent Linguistic Structures**: Investigating how cognition and group dynamics shape shared language frameworks.
+- **Human-Centered Language Models**: Designing AI systems that reflect the complexities of human communication.
+- **Cognitive and Computational Integration**: Bridging cognitive science with computational methods to advance language technologies.
 - **Game Theory**: Enhancing system optimization through game-theoretic approaches.
   
 ---
