@@ -15,7 +15,7 @@ This philosophy guides my approach to research, where respect for autonomy and i
 
 ---
 
-My research interests are in **AI, Cognitive Science, and Robotics**. 
+My research interests are in **AI, Cognitive Science, Robotics, and Language and Information Technologies**. 
 ## Key Focus Areas:
 - **Cognitive-Inspired AI**: Exploring human-like cognitive processes for decision-making.
 - **Multi-Agent Learning**: Modeling interactions between collaborative and competitive agents.
