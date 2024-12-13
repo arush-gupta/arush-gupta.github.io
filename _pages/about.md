@@ -65,6 +65,7 @@ My research interests are in **AI, Cognitive Science, Robotics, and Language and
 - IIT-JEE: All India Rank 923 (2016) amidst 1.2 million candidates
 - IIT-JEE: All India Rank 12024 (2015) amidst 1.2 million candidates
 
+The IIT JEE is one of the most competitive standardized exams globally, assessing advanced problem-solving skills typically beyond the high school level in mathematics, physics, and chemistry, and serving as the sole criterion for admission to the Indian Institutes of Technology (IITs).
 
 ## A Few Fun Facts About My Competence (You *must* know these… or else! 🔪):  
 
