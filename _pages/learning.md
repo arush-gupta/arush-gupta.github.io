@@ -20,5 +20,11 @@ This phase of exploration involved extensive travel and introspection. Through e
 
 During this period, I cultivated skills that are crucial for research, including problem-solving, independent learning, and resilience. This time allowed me to gain insights into my ability to adapt, embrace uncertainty, and find joy in the process of exploration itself. The independence I developed and the challenges I faced have strengthened my resolve to return to academia with a focus on contributing meaningfully to the field.
 
+## Exploration of Educational Psychology
+
+During my time away from formal academia, I used the opportunity to refine my critical thinking skills through extensive travel and self-study. One of the most impactful areas I explored was research on educational psychology. Work on motivation, learning, and the importance of autonomy deeply resonated with my interests in learning algorithms and systems.
+
+Certain insights on intrinsic motivation and the role of environment in shaping learning strategies have greatly influenced my approach to developing algorithms for autonomous systems. This research has allowed me to draw cross-disciplinary connections, enhancing my ability to create more adaptive and resilient systems, a focus I now carry forward into my academic work.
+
 
 
