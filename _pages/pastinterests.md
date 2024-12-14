@@ -1,12 +1,11 @@
 ---
 permalink: /pastinterests/
-title: "Past Research Interests and Evolution"
+title: "Evolution of Interests"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-# Evolution of Interests
 
 - **Thermodynamics to Quantum Statistics**  
   - Studied thermal and statistical physics, leading to an interest in quantum statistics and the behavior of the physics of microscopic systems.
