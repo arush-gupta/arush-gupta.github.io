@@ -10,12 +10,6 @@ redirect_from:
 
 I am Arush Gupta, and I am training myself to be a researcher and a professor. 
 
-I believe in the power of collaboration and value each individual as a sovereign thinker, capable of contributing unique perspectives to collective endeavors. 
-
-This philosophy guides my approach to research, where respect for autonomy and intellectual freedom are foundational to fostering diverse perspectives, new angles of approach, and critical analyses of the problem at hand.
-
-Here is a (very) brief statement about my teaching philosophy - [Teaching Statement](files/Teaching_Statement_Arush_Gupta.pdf)
-
 ---
 
 # Research Interests and Competence
@@ -85,3 +79,12 @@ Quotable quotes:
 
 > "If you eliminate the impossible, whatever remains, however improbable, must be the truth."  
 > — Sherlock Holmes
+
+
+# Collaborative Spirit
+
+I believe in the power of collaboration and value each individual as a sovereign thinker, capable of contributing unique perspectives to collective endeavors. 
+
+This philosophy guides my approach to research, where respect for autonomy and intellectual freedom are foundational to fostering diverse perspectives, new angles of approach, and critical analyses of the problem at hand.
+
+Here is a (very) brief statement about my teaching philosophy - [Teaching Statement](files/Teaching_Statement_Arush_Gupta.pdf)
