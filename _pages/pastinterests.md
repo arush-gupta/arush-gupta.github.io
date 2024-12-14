@@ -18,7 +18,7 @@ redirect_from:
   - Explored quantum computing applications, such as simulating high-temperature superconductors and optimizing chemical processes like the Haber-Bosch reaction.
 
 - **Quantum Computing to Cognitive Science**  
-  - Investigated the brain as a quantum computer, merging interests in quantum computing and cognitive science to explore decision-making, learning, and consciousness.
+  - Explored the idea of the brain as a quantum computer (Fisher, M.P., 2017. Are we quantum computers, or merely clever robots. International Journal of Modern Physics B, 31(7), p.1743001.), merging interests in quantum computing and cognitive science to explore decision-making, learning, and consciousness.
 
 - **Psychology and Cognitive Science**  
   - Deepened interest in psychological theories of motivation, learning, and autonomy, integrating these insights with quantum information to develop adaptive, autonomous systems.
