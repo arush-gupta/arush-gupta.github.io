@@ -10,6 +10,9 @@ redirect_from:
 > — WFG Swann
 {% include base_path %}
 
+Here is a (very) brief statement about my teaching philosophy - [Teaching Statement](files/Teaching_Statement_Arush_Gupta.pdf)
+
+
 # Some of my favourite teachers on youtube: 
 1. Noam Chomsky (MIT) -> [Linguistics](https://youtu.be/OrQ0LfqxABM?si=if2vaKxqu8SCDMH1)
 2. Patrick Henry Winston (MIT) -> [Artificial Intelligence](https://youtu.be/TjZBTDzGeGg?si=uA3_9jhTWuvn4RRh)
