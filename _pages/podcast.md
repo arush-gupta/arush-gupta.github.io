@@ -13,6 +13,8 @@ Breaking down complex STEM topics and eliminating jargon barriers through candid
 
 The goal is to empower young learners to make informed choices about their educational paths.
 
+The podcast format is conversational, roughly tracked using [a set of questions, which can be tailored](https://docs.google.com/document/d/1c66ap61GYgj-QN36hr5Jb1JOMSZ0FZzOMsz9ka9ocdA/edit?usp=sharing) and designed to make complex topics accessible while showcasing the real-world impact of research.
+
 ## Episode 2 -> Scales of Complexity in Biology, Emergence, Protein Engineering, AlphaFold, CAR-T Cell Therapy
 
 My most recent conversation with Akanksha Yadav, a Bioengineering PhD Student at CalTech
