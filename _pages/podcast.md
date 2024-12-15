@@ -13,10 +13,22 @@ Breaking down complex STEM topics and eliminating jargon barriers through candid
 
 The goal is to empower young learners to make informed choices about their educational paths.
 
+## Episode 2 -> Scales of Complexity in Biology, Emergence, Protein Engineering, AlphaFold, CAR-T Cell Therapy
+
+My most recent conversation with Akanksha Yadav, a Bioengineering PhD Student at CalTech
+
+<div class="video-container">
+  <iframe width="560" height="315" 
+          src="https://www.youtube.com/embed/YjANXvpZX2I" 
+          frameborder="0" 
+          allowfullscreen>
+  </iframe>
+</div>
+
 
 ## Episode 1 -> AI: Modelling Nature, Emergence, Human-AI Connection, and the Meaning of Intelligence
 
-My most recent conversation with Santanu Rathod, an ELLIS PhD Student at CISPA-Helmholtz and University of Cambridge
+A conversation with Santanu Rathod, an ELLIS PhD Student at CISPA-Helmholtz and University of Cambridge
 
 <div class="video-container">
   <iframe width="560" height="315" 
@@ -28,7 +40,6 @@ My most recent conversation with Santanu Rathod, an ELLIS PhD Student at CISPA-H
 
 ## Upcoming episodes: 
 ### PhD student in AI (LLMs) from UC Berkeley - 18th December 2024
-### PhD student in neurobiology from CalTech - 13th December 2024
 
 ## My vision for the podcast
 
