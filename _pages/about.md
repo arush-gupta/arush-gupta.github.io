@@ -34,9 +34,9 @@ My research interests are in **AI, Cognitive Science, Robotics, and Language and
 
 #### Imperial College London:
 
-- **Mathematical Methods for Physicists**: A  
+- **Mathematical Methods for Physicists**: A (93.6%)
 - **Research Computing Skills for Physicists**: A  
-- **Information Theory**: B  
+- **Information Theory**: B
 - **Neural Network-based Data Compression** (Self-Study Project): A  
 
 #### IIT Bombay:
