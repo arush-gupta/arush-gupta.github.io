@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Podcast"
-permalink: /podcast/
+title: "Podcast: Research"
+permalink: /rtpodcast/
 author_profile: true
 redirect_from:
   - /resume
