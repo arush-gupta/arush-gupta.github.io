@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Podcast: Research"
+title: "Podcast: Research Translated"
 permalink: /rtpodcast/
 author_profile: true
 redirect_from:
