@@ -9,6 +9,9 @@ main:
     
   - title: "Podcast: Research"
     url: /rtpodcast/
+ 
+  - title: "Podcast: Teaching"
+    url: /ttpodcast/
 
   - title: "Projects"
     url: /projects/
