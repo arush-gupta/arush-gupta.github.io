@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-# Teaching Translated Podcast
 
 Welcome to **Teaching Translated**, a podcast series that delves into the teaching methodologies of professors from leading research universities, with an initial focus on **Computer Science Education**. Through candid conversations with esteemed educators, we explore the art and science of teaching, and how innovative teaching practices shape student learning and foster critical thinking.
 
