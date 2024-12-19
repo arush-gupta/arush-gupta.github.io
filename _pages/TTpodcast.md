@@ -17,10 +17,9 @@ Welcome to **Teaching Translated**, a podcast series that delves into the teachi
 In each episode, we uncover how educators inspire curiosity, encourage critical inquiry, and address diverse challenges in the classroom. Our guests share their personal teaching philosophies, how they foster inclusivity, and how they use failure as a tool for growth. We also discuss how empathy, humility, and curiosity over perfection are vital in creating environments where students thrive.
 
 The podcast aims to provide insights into:
-- Personal experiences and philosophies of professors in computer science education.
+- Personal experiences and philosophies of professors in computer science.
 - The emotional impact of education and how it affects learning.
 - Approaches to fostering critical thinking, curiosity, and inclusivity in the classroom.
-- Strategies for addressing challenges like impostor syndrome, perfectionism, and unconventional thinking.
 - The integration of natural science frameworks into teaching computer science.
 
 ## Episode Format
