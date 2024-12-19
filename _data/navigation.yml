@@ -7,8 +7,8 @@
 main:
 
     
-  - title: "Podcast"
-    url: /podcast/
+  - title: "Podcast: Research"
+    url: /rtpodcast/
 
   - title: "Projects"
     url: /projects/
