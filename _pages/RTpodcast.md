@@ -46,10 +46,18 @@ A conversation with Santanu Rathod, an ELLIS PhD Student at CISPA-Helmholtz and 
 
 ## My vision for the podcast
 
+The podcast aims to make your specialized research area accessible to those without a technical
+background. The goal is to empower young learners to make informed choices about their educational paths.
 
-Breaking down complex STEM topics and eliminating jargon barriers through candid conversations with researchers from around the world to share their insights and personal stories, making science relatable and engaging.
+It fosters a scientific discussion between an expert (you) and a curious novice (me), exploring
+your perspective as a researcher—your discoveries, fascinations, and philosophical reflections on science.
 
-The goal is to empower young learners to make informed choices about their educational paths.
+We aim to provide a holistic view of what it means to actually do science—how to communicate it
+effectively and ask critical questions, including those others might consider ”silly.” 
+
+As the host, my role is
+to show that there are no silly questions, only pathways to deeper understanding, revealing the processes
+and experiences that shape scientific work.
 
 The podcast format is conversational (roughly tracked using [a set of questions, which can be tailored](https://docs.google.com/document/d/1c66ap61GYgj-QN36hr5Jb1JOMSZ0FZzOMsz9ka9ocdA/edit?usp=sharing)) and is designed to make complex topics accessible while showcasing the real-world impact of research.
 
