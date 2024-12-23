@@ -9,11 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Breaking down complex STEM topics and eliminating jargon barriers through candid conversations with researchers from around the world to share their insights and personal stories, making science relatable and engaging.
+## Upcoming episodes: 
 
-The goal is to empower young learners to make informed choices about their educational paths.
-
-The podcast format is conversational (roughly tracked using [a set of questions, which can be tailored](https://docs.google.com/document/d/1c66ap61GYgj-QN36hr5Jb1JOMSZ0FZzOMsz9ka9ocdA/edit?usp=sharing)) and is designed to make complex topics accessible while showcasing the real-world impact of research.
+Upcoming episodes will feature PhD students from Columbia (neural dynamics and computational modeling) MIT AeroAstro (MARL and autonomous multi-agent systems), UC Berkeley (on LLMs)
 
 ## Episode 2 -> Scales of Complexity in Biology, Emergence, Protein Engineering, AlphaFold, CAR-T Cell Therapy
 
@@ -40,10 +38,17 @@ A conversation with Santanu Rathod, an ELLIS PhD Student at CISPA-Helmholtz and 
   </iframe>
 </div>
 
-## Upcoming episodes: 
-### PhD student in AI (LLMs) from UC Berkeley - 18th December 2024
+
+
 
 ## My vision for the podcast
+
+
+Breaking down complex STEM topics and eliminating jargon barriers through candid conversations with researchers from around the world to share their insights and personal stories, making science relatable and engaging.
+
+The goal is to empower young learners to make informed choices about their educational paths.
+
+The podcast format is conversational (roughly tracked using [a set of questions, which can be tailored](https://docs.google.com/document/d/1c66ap61GYgj-QN36hr5Jb1JOMSZ0FZzOMsz9ka9ocdA/edit?usp=sharing)) and is designed to make complex topics accessible while showcasing the real-world impact of research.
 
 <div class="video-container">
   <iframe width="560" height="315" 
