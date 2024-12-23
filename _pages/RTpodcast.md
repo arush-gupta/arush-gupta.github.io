@@ -18,7 +18,7 @@ Upcoming episodes will feature PhD students from
 
 ## Episode 2 -> Scales of Complexity in Biology, Emergence, Protein Engineering, AlphaFold, CAR-T Cell Therapy
 
-My most recent conversation with Akanksha Yadav, a Bioengineering PhD Student at CalTech
+My most recent conversation with Akanksha Yadav, a Neuroscience/Bioengineering PhD Student at **CalTech**
 
 <div class="video-container">
   <iframe width="560" height="315" 
@@ -31,7 +31,7 @@ My most recent conversation with Akanksha Yadav, a Bioengineering PhD Student at
 
 ## Episode 1 -> AI: Modelling Nature, Emergence, Human-AI Connection, and the Meaning of Intelligence
 
-A conversation with Santanu Rathod, an ELLIS PhD Student at CISPA-Helmholtz and University of Cambridge
+A conversation with Santanu Rathod, an ELLIS PhD Student at CISPA-Helmholtz and **University of Cambridge**
 
 <div class="video-container">
   <iframe width="560" height="315" 
