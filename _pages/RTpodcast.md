@@ -11,7 +11,10 @@ redirect_from:
 
 ## Upcoming episodes: 
 
-Upcoming episodes will feature PhD students from Columbia (neural dynamics and computational modeling) MIT AeroAstro (MARL and autonomous multi-agent systems), UC Berkeley (on LLMs)
+Upcoming episodes will feature PhD students from
+- **Columbia** on neural dynamics and computational modeling
+- **MIT AeroAstro** on MARL and autonomous multi-agent systems
+- **UC Berkeley** on LLMs
 
 ## Episode 2 -> Scales of Complexity in Biology, Emergence, Protein Engineering, AlphaFold, CAR-T Cell Therapy
 
