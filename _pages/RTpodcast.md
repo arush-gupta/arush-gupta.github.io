@@ -12,7 +12,7 @@ redirect_from:
 ## Upcoming episodes: 
 
 Upcoming episodes will feature PhD students from
-- **Columbia** on neural dynamics and computational modeling
+- **Columbia University** on neural dynamics and computational modeling
 - **MIT AeroAstro** on MARL and autonomous multi-agent systems
 - **UC Berkeley** on LLMs
 
