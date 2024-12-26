@@ -13,7 +13,7 @@ redirect_from:
 
 Upcoming episodes will feature PhD students from
 - **Columbia University** on neural dynamics and computational modeling
-- **MIT AeroAstro** on MARL and autonomous multi-agent systems
+- **GeorgiaTech CS** on reinforcement learning and robotics, with a focus on sim2real transfer (domain randomization)
 - **UC Berkeley** on LLMs
 
 ## Episode 3 -> Multi-Agent RL, Musical Cueing to Translational Wrappers, DUM-E, and
