@@ -16,9 +16,22 @@ Upcoming episodes will feature PhD students from
 - **MIT AeroAstro** on MARL and autonomous multi-agent systems
 - **UC Berkeley** on LLMs
 
+## Episode 3 -> Multi-Agent RL, Musical Cueing to Translational Wrappers, DUM-E, and
+inspiration from Dad!
+
+My most recent conversation with Siddharth Nayak, a Mutli-Agent Robotics PhD Student at **MIT AerosAstro**
+
+<div class="video-container">
+  <iframe width="560" height="315" 
+          src="https://www.youtube.com/embed/8PSu2nNzBts" 
+          frameborder="0" 
+          allowfullscreen>
+  </iframe>
+</div>
+
 ## Episode 2 -> Scales of Complexity in Biology, Emergence, Protein Engineering, AlphaFold, CAR-T Cell Therapy
 
-My most recent conversation with Akanksha Yadav, a Neuroscience/Bioengineering PhD Student at **CalTech**
+A conversation with Akanksha Yadav, a Neuroscience/Bioengineering PhD Student at **CalTech**
 
 <div class="video-container">
   <iframe width="560" height="315" 
