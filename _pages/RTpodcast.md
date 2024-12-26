@@ -16,8 +16,7 @@ Upcoming episodes will feature PhD students from
 - **GeorgiaTech CS** on reinforcement learning and robotics, with a focus on sim2real transfer (domain randomization)
 - **UC Berkeley** on LLMs
 
-## Episode 3 -> Multi-Agent RL, Musical Cueing to Translational Wrappers, DUM-E, and
-inspiration from Dad!
+## Episode 3 -> Multi-Agent RL, Musical Cueing to Translational Wrappers, DUM-E, and inspiration from Dad!
 
 My most recent conversation with Siddharth Nayak, a Mutli-Agent Robotics PhD Student at **MIT AerosAstro**
 
