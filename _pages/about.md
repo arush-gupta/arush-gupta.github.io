@@ -8,7 +8,9 @@ redirect_from:
 ---
 
 
-I am Arush Gupta, and I am training myself to be a researcher and a professor. Here is brief statement from me as someone aiming to become an academician - [Statement for Academia](files/SFA_Arush.pdf)
+I am Arush Gupta, and I am training myself to be a researcher and a professor. 
+
+Here is brief statement from me, aiming to become an academician - [Statement for Academia](files/SFA_Arush.pdf)
 
 ---
 
