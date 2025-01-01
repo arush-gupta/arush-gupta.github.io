@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 
-I am Arush Gupta, an aspiring tenure-track professor.. This is my brief statement as an academic-in-training - [Statement for Academia](files/SFA_Arush.pdf)
+I am Arush Gupta, an aspiring tenure-track professor.
+This is my brief statement as an academic-in-training - [Statement for Academia](files/SFA_Arush.pdf)
 
 ---
 
