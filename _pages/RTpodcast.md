@@ -12,13 +12,25 @@ redirect_from:
 ## Upcoming episodes: 
 
 Upcoming episodes will feature PhD students from
-- **Columbia University** on neural dynamics and computational modeling
 - **GeorgiaTech CS** on reinforcement learning and robotics, with a focus on sim2real transfer (domain randomization)
 - **UC Berkeley** on LLMs
 
+## Episode 4 -> Reverse-Engineering Fly Brains, Connectomics, Model-Based Knowledge & Embracing Scientific Curiosity
+
+My most recent conversation with Shashwat Shukla, a neural dynamics and computational modeling PhD Student at **Columbia University** 
+
+<div class="video-container">
+  <iframe width="560" height="315" 
+          src="https://www.youtube.com/embed/bzm7i4hoO6o" 
+          frameborder="0" 
+          allowfullscreen>
+  </iframe>
+</div>
+
+
 ## Episode 3 -> Multi-Agent RL, Musical Cueing to Translational Wrappers, DUM-E, and inspiration from Dad!
 
-My most recent conversation with Siddharth Nayak, a Mutli-Agent Robotics PhD Student at **MIT AerosAstro**
+My conversation with Siddharth Nayak, a Mutli-Agent Robotics PhD Student at **MIT AerosAstro**
 
 <div class="video-container">
   <iframe width="560" height="315" 
