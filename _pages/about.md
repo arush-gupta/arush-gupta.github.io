@@ -15,7 +15,11 @@ This is my brief statement as an academic-in-training - [Statement for Academia]
 
 # Research Interests and Competence
 
-My research interests are in **AI, Cognitive Science, Robotics, and Language and Information Technologies**. 
+I have long been fascinated by the science of learning—whether it pertains to humans, animals, or machines. Over time, many theories of human learning have emerged, some of which, like behaviorism, have proven to be limited or even misleading due to their lack of scientific falsifiability.
+
+My passion lies in leveraging computer science as a platform to rigorously explore philosophical, psychological, and sociological principles. By combining these domains with mathematical precision, I aim to better understand learning processes, rigorously test theories, and distinguish between progressive and regressive ideas about human learning.
+
+My research interests are in **AI, Cognitive Science, Robotics, and Language and Information Technologies**.
 ## Key Focus Areas:
 - **Cognitive-Inspired AI**: Exploring human-like cognitive processes for decision-making.
 - **Multi-Agent Learning**: Modeling interactions between collaborative and competitive agents.
