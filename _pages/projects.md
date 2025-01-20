@@ -13,7 +13,7 @@ redirect_from:
 
 ### Research Proposals:
 
-Simulating Behavioral Architectures Using Multi-Armed Bandits: Independent vs. Shared Reward Systems - [Proposal 19th Jan 2025](files/Arush_Research_Proposal_19th_Jan_2025.pdf)
+Simulating Behavioral Architectures Using Multi-Armed Bandits: Independent vs. Shared Reward Systems - [Proposal 19th Jan 2025](../files/Arush_Research_Proposal_19th_Jan_2025.pdf)
 
 
 # Work Experience
