@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+# Current focus
 
+### Simulating Behavioral Architectures Using Multi-Armed Bandits: Independent vs. Shared Reward Systems - []()
 
 # Work Experience
 
