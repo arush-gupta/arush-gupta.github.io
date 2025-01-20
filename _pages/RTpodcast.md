@@ -30,7 +30,7 @@ My most recent conversation with Shashwat Shukla, a neural dynamics and computat
 
 ## Episode 3 -> Multi-Agent RL, Musical Cueing to Translational Wrappers, DUM-E, and inspiration from Dad!
 
-My conversation with Siddharth Nayak, a Mutli-Agent Robotics PhD Student at **MIT AerosAstro**
+My conversation with Siddharth Nayak, a Mutli-Agent Robotics PhD Student at **MIT AeroAstro**
 
 <div class="video-container">
   <iframe width="560" height="315" 
