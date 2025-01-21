@@ -13,6 +13,9 @@ This is my brief statement as an academic-in-training - [Statement for Academia]
 
 ---
 
+# Open to Collaboration
+I am always eager to explore new ideas and collaborate. If you're interested in discussing potential projects or exploring interdisciplinary research opportunities, feel free to reach out.
+
 # Research Interests and Competence
 
 My interests center on the science of learning—spanning humans, animals, and machines. Over time, many theories of human learning have emerged, some of which have proven misleading due to their lack of scientific rigor or completeness.
