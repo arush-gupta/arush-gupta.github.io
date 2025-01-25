@@ -22,8 +22,8 @@ If available, please add a link to a syllabus for classes you have taken, or a g
 
 #### IIT Bombay:
 
-- **CS101 (C++)** (Prof. Sunita Sarawagi): 10/10  
-- **AE102 (Python-based Data Analysis)** (Prof. Prabhu Ramachandran): 9/10
+- **Computer Programming and Utilization CS101 (C++)** (Prof. Sunita Sarawagi): 10/10  
+- **AE102 Data Analysis and Interpretation (Python-based Data Analysis)** (Prof. Prabhu Ramachandran): 9/10
 - --AE 102 Course• The role of statistics. Graphical and numerical methods for describing and
 summarising data. Probability. Population distributions. Sampling variability and
 sampling distributions. Estimation using a single sample. Hypothesis testing a
