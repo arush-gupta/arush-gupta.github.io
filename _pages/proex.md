@@ -13,6 +13,24 @@ redirect_from:
 *
 If available, please add a link to a syllabus for classes you have taken, or a github repository or demo of one or two relevant projects.
 
+### Courses
+
+#### Imperial College London:
+
+- **Research Computing Skills for Physicists**: A  
+- **Neural Network-based Data Compression** (Self-Study Project): A  
+
+#### IIT Bombay:
+
+- **CS101 (C++)** (Prof. Sunita Sarawagi): 10/10  
+- **AE102 (Python-based Data Analysis)** (Prof. Prabhu Ramachandran): 9/10  
+- **Microprocessors and Automatic Control Lab** (Embedded C): 8/10
+- **Industrial Engineering and Operations Research** (Linear Programming...does that count?): 8/10  
+
+#### Additional:
+
+- **DeepLearning.AI Neural Networks & Deep Learning**: 94.43%  
+
 ### Research Proposals:
 
 Simulating Behavioral Architectures Using Multi-Armed Bandits: Independent vs. Shared Reward Systems - [Proposal 19th Jan 2025](../files/Arush_Research_Proposal_19th_Jan_2025.pdf)
