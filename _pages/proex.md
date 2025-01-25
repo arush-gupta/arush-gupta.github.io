@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-# Current focus
+# What programming experience do you have?
+*
+If available, please add a link to a syllabus for classes you have taken, or a github repository or demo of one or two relevant projects.
 
 ### Research Proposals:
 
