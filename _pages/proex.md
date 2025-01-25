@@ -23,7 +23,18 @@ If available, please add a link to a syllabus for classes you have taken, or a g
 #### IIT Bombay:
 
 - **CS101 (C++)** (Prof. Sunita Sarawagi): 10/10  
-- **AE102 (Python-based Data Analysis)** (Prof. Prabhu Ramachandran): 9/10  
+- **AE102 (Python-based Data Analysis)** (Prof. Prabhu Ramachandran): 9/10
+- --AE 102 Course• The role of statistics. Graphical and numerical methods for describing and
+summarising data. Probability. Population distributions. Sampling variability and
+sampling distributions. Estimation using a single sample. Hypothesis testing a
+single sample. Comparing two populations or treatments. Simple linear regression
+and correlation. Case studies.
+
+Basic data analysis techniques• Statistics/ probability theory applied to data analysis• Application of these with computation
+
+- **Computational Methods in Thermal and Fluid Engineering**
+- -- Introduction, numerical integration, solution to algebraic equations, solution to ordinary differential equations, application to conduction, radiation and flow processes. Solution to partial differential equations, application to conduction, convection and flow problems. Difference forms, implicit and explicit methods for steady state and transient problems. Accuracy stability, speed of convergence, etc. Governing relation and boundary conditions. Solution to conduction problems. Convective problems in laminar and turbulent flows. Choice of governing equations and solution methods.
+
 - **Microprocessors and Automatic Control Lab** (Embedded C): 8/10
 - **Industrial Engineering and Operations Research** (Linear Programming...does that count?): 8/10  
 
