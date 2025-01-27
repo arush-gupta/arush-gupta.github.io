@@ -22,15 +22,19 @@ If available, please add a link to a syllabus for classes you have taken, or a g
 
 #### IIT Bombay:
 
-- **Computer Programming and Utilization CS101 (C++)** (Prof. Sunita Sarawagi): 10/10  
-- **AE102 Data Analysis and Interpretation (Python-based Data Analysis)** (Prof. Prabhu Ramachandran): 9/10
+- **Computer Programming and Utilization CS101 (C++)** : 10/10
+- --This course provides an introduction to problem solving with computers using a modern language such as Java or C/C++. Topics covered will include :
+Utilization : Developer fundamentals such as editor, integrated programming environment, Unix shell, modules, libraries.
+Programming features :Ability to translate from the informal description of an algorithm learned in the mathematics classroom into the constructs provided by the programming language.
+Applications : Sample problems in engineering, science, text processing, and numerical methods.
+- **AE102 Data Analysis and Interpretation (Basic data analysis techniques• Statistics/ probability theory applied to data analysis• Application of these with computation)** : 9/10
 - --AE 102 Course• The role of statistics. Graphical and numerical methods for describing and
 summarising data. Probability. Population distributions. Sampling variability and
 sampling distributions. Estimation using a single sample. Hypothesis testing a
 single sample. Comparing two populations or treatments. Simple linear regression
 and correlation. Case studies.
 
-Basic data analysis techniques• Statistics/ probability theory applied to data analysis• Application of these with computation
+
 
 - **Computational Methods in Thermal and Fluid Engineering**
 - -- Introduction, numerical integration, solution to algebraic equations, solution to ordinary differential equations, application to conduction, radiation and flow processes. Solution to partial differential equations, application to conduction, convection and flow problems. Difference forms, implicit and explicit methods for steady state and transient problems. Accuracy stability, speed of convergence, etc. Governing relation and boundary conditions. Solution to conduction problems. Convective problems in laminar and turbulent flows. Choice of governing equations and solution methods.
