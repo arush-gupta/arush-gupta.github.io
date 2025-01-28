@@ -1,5 +1,5 @@
 ---
-title: 'The Shinkansen's Long Nose'
+title: 'The Long Nose'
 date: 2025-01-28
 permalink: /posts/2025/01/shinkansen/
 tags:
