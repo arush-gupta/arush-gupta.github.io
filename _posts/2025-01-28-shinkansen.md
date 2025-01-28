@@ -1,7 +1,7 @@
 ---
-title: "The Shinkansen's Long Nose: Designed to Prevent Tunnel Boom, Not Reduce Drag"
+title: 'The Shinkansen's Long Nose: Designed to Prevent Tunnel Boom, Not Reduce Drag'
 date: 2025-01-28
-permalink: /posts/2012/08/blog-post-1/
+permalink: /posts/2012/08/shinkansen/
 tags:
   - aerodynamics
   - trains
