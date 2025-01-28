@@ -1,11 +1,13 @@
 ---
-title: 'The Shinkansen's Long Nose: Designed to Prevent Tunnel Boom, Not Reduce Drag'
+title: 'Blog Post number 5'
 date: 2025-01-28
-permalink: /posts/2025/01/shinkansen/
+permalink: /posts/2012/08/blog-post-5/
 tags:
-  - aerodynamics
-  - trains
+  - cool posts
+  - category1
+  - category2
 ---
+
 
 Ever wondered why the nose of the Shinkansen is so long? While you might think it’s for drag reduction, its main purpose is actually to address a phenomenon called tunnel boom.
 
