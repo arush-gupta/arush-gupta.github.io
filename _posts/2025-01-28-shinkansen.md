@@ -1,11 +1,10 @@
 ---
-title: 'Blog Post number 5'
+title: 'The Shinkansen's Long Nose'
 date: 2025-01-28
-permalink: /posts/2012/08/blog-post-5/
+permalink: /posts/2025/01/shinkansen/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - trains
+  - aerodynamics
 ---
 
 
