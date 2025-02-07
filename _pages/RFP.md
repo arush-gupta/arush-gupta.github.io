@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Research Proposal"
-permalink: /rtpodcast/
+permalink: /rfp/
 author_profile: true
 redirect_from:
   - /resume
