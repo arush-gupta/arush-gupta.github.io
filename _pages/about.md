@@ -8,7 +8,10 @@ redirect_from:
 ---
 
 
-I am Arush Gupta, an aspiring tenure-track professor.
+I am Arush Gupta, an aspiring professor. 
+
+I hold an MSc in Physics from Imperial College London, as well as an MTech in Electrical Engineering and a BTech in Mechanical Engineering, both from IIT Bombay. My academic journey has been shaped by a deep interest in emergent phenomena—ranging from quasiparticles in condensed matter physics to self-similarity in magnetohydrodynamic turbulence. I have been particularly inspired by Hopfield’s 1982 work on neural computation, which illustrates how neural networks enable emergent information processing, and by Chomsky’s exploration of emergent cognitive structures.
+
 This is my brief statement as an academic-in-training - [Statement for Academia](files/SFA_Arush.pdf)
 
 ---
