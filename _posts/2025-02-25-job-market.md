@@ -1,8 +1,8 @@
 ---
 layout: post
-title: a post that can be cited
+title: Struggling in the Job Market
 date: 2025-02-25 16:40:16
-description: Struggling in the Job Market
+description: The Over-Reliance on Robotic Competence
 tags: formatting citation
 categories: sample-posts
 citation: true
