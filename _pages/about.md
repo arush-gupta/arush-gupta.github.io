@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: "...a strong man, who has known power all his life, will lose respect for that power. But a weak man knows the value of strength, and knows compassion."
+subtitle: "...a strong man, who has known power all his life, will lose respect for that power. But a weak man knows the value of strength, and knows compassion. – Dr Abraham Erskine"
 
 profile:
   align: right
   image: 20250210_182132.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>MSc Physics || Imperial</p>
-    <p>MTech Electrical Engineering || IIT Bombay</p>
-    <p>BTech Mechanical Engineering || IIT Bombay</p>
+    <p>MSc Physics @ Imperial</p>
+    <p>MTech EE @ IIT Bombay</p>
+    <p>BTech MechE @ IIT Bombay</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit:  # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: true
