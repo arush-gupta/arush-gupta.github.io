@@ -1,11 +1,13 @@
 ---
 layout: post
-title: a post with formatting and links
+title: a post that can be cited
 date: 2025-02-25 16:40:16
 description: Struggling in the Job Market
-tags: formatting links
+tags: formatting citation
 categories: sample-posts
+citation: true
 ---
+
 
 ## Struggling in the Job Market: The Over-Reliance on Robotic Competence, 25th Feb 2025, by Arush Gupta
 
