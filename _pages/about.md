@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: "...a strong man, who has known power all his life, will lose respect for that power. But a weak man knows the value of strength, and knows compassion."
 
 profile:
   align: right
   image: 20250210_182132.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>MSc Physics || Imperial</p>
+    <p>MTech Electrical Engineering || IIT Bombay</p>
+    <p>BTech Mechanical Engineering || IIT Bombay</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
