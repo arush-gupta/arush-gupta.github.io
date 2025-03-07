@@ -7,7 +7,7 @@ subtitle: "...a strong man, who has known power all his life, will lose respect 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>MSc Physics || Imperial</p>
     <p>MTech ElecE || IIT Bombay</p>
