@@ -1,3 +1,12 @@
+---
+layout: post
+title: a post with formatting and links
+date: 2025-02-25 16:40:16
+description: Struggling in the Job Market
+tags: formatting links
+categories: sample-posts
+---
+
 ## Struggling in the Job Market: The Over-Reliance on Robotic Competence, 25th Feb 2025, by Arush Gupta
 
 **TL;DR,** The job market has shifted from valuing human competence (learning and adaptability) to robotic competence (immediate efficiency). Companies, pressured by short-term profitability and investor demands, now prioritize job-ready specialists over long-term employee development.
