@@ -79,11 +79,11 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-a-post-that-can-be-cited",
+            },{id: "post-struggling-in-the-job-market",
       
-        title: "a post that can be cited",
+        title: "Struggling in the Job Market",
       
-      description: "Struggling in the Job Market",
+      description: "The Over-Reliance on Robotic Competence",
       section: "Posts",
       handler: () => {
         
