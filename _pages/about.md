@@ -12,7 +12,6 @@ profile:
     <p>MSc Physics || Imperial</p>
     <p>MTech ElecE || IIT Bombay</p>
     <p>BTech MechE || IIT Bombay</p>
-    <p>arush.gupta.c2021@iitbombay.org</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
