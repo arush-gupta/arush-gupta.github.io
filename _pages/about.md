@@ -7,11 +7,11 @@ subtitle: "...a strong man, who has known power all his life, will lose respect 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>arush.gupta.c2021@iitbombay.org</p>
     <p>MSc Physics || Imperial</p>
-    <p>MTech EE || IIT Bombay</p>
+    <p>MTech ElecE || IIT Bombay</p>
     <p>BTech MechE || IIT Bombay</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
