@@ -3,8 +3,8 @@ layout: post
 title: Struggling in the Job Market
 date: 2025-02-25 16:40:16
 description: The Over-Reliance on Robotic Competence
-tags: formatting citation
-categories: sample-posts
+tags: labour market
+categories: economics
 citation: true
 ---
 
