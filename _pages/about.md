@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "...a strong man, who has known power all his life, will lose respect for that power. But a weak man knows the value of strength, and knows compassion. – Dr Abraham Erskine"
+subtitle: "...a strong man, who has known power all his life, will lose respect for that power. But a weak man knows the value of strength, and knows compassion. - Dr Abraham Erskine"
 
 profile:
   align: right
