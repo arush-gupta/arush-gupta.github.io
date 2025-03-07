@@ -79,9 +79,9 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-a-post-with-formatting-and-links",
+            },{id: "post-a-post-that-can-be-cited",
       
-        title: "a post with formatting and links",
+        title: "a post that can be cited",
       
       description: "Struggling in the Job Market",
       section: "Posts",
