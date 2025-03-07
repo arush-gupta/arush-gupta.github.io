@@ -9,9 +9,9 @@ profile:
   image: 20250210_182132.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>MSc Physics @ Imperial</p>
-    <p>MTech EE @ IIT Bombay</p>
-    <p>BTech MechE @ IIT Bombay</p>
+    <p>MSc Physics || Imperial</p>
+    <p>MTech EE || IIT Bombay</p>
+    <p>BTech MechE || IIT Bombay</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
