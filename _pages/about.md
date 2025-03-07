@@ -2,13 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: "...a strong man, who has known power all his life, will lose respect for that power. But a weak man knows the value of strength, and knows compassion. - Dr Abraham Erskine"
+subtitle: "...a strong man, who has known power all his life, will lose respect for that power. But a weak man knows the value of strength, and knows compassion. – Dr Abraham Erskine"
 
 profile:
   align: right
-  image: 20250210_182132.jpg
+  image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
+    <p>arush.gupta.c2021@iitbombay.org</p>
     <p>MSc Physics || Imperial</p>
     <p>MTech EE || IIT Bombay</p>
     <p>BTech MechE || IIT Bombay</p>
@@ -24,10 +25,14 @@ announcements:
 latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  limit:  # leave blank to include all the blog posts
 ---
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+
+Hello! I am an explorer; I explore ways to understand the world using tools from science, philosophy, history, economics, complex systems, and social dynamics.
+
+I'm currently listening to: Steal My Thunder (From "Twisters") by Connor Smith
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
