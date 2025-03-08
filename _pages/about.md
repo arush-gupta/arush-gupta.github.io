@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>"...a strong man, who has known power all his life, will lose respect for that power. But a weak man knows the value of strength, and knows compassion." – Dr Abraham Erskine</a>
+subtitle: <a href='#'>"...because the strong man who has known power all his life, may lose respect for that power, but a weak man knows the value of strength, and knows... compassion." – Dr Abraham Erskine</a>
 
 profile:
   align: right
