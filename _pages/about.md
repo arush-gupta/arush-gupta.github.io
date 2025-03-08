@@ -29,7 +29,9 @@ latest_posts:
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
-Hello! I am an explorer; I explore ways to understand the world using tools from science, philosophy, history, economics, complex systems, and social dynamics.
+Hello! I am an explorer.
+
+I explore the physical world, people, cities, and economies using tools from science, philosophy, history, economics, complex systems, and social dynamics — and, of course, my own two feet, hands, and ears.
 
 I'm currently listening to: Steal My Thunder (From "Twisters") by Connor Smith
 
