@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>"...because the strong man who has known power all his life, may lose respect for that power, but a weak man knows the value of strength, and knows... compassion." – Dr Abraham Erskine</a>
+subtitle: <a href='#'>Research Therapist</a>
 
 profile:
   align: right
@@ -28,12 +28,21 @@ latest_posts:
 ---
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
+>"...because the strong man who has known power all his life, may lose respect for that power, but a weak man knows the value of strength, and knows... compassion." – Dr Abraham Erskine
 
 Hello! I am an explorer.
 
 I explore the physical world, people, cities, and economies using tools from science, philosophy, history, economics, complex systems, and social dynamics — and, of course, my own two feet, hands, and ears.
 
 I'm currently listening to: Steal My Thunder (From "Twisters") by Connor Smith
+
+As of 10th March 2025, I’m positioning myself as a Research Consultant—what I like to call a "Research Therapist." I aim to help researchers and professionals break through barriers and pivot out of stagnation by offering fresh perspectives and new directions for stalled projects.
+
+My strengths never lay in executing the research, but in problem definition and generating innovative solutions. By providing strategic guidance rather than doing your work for you, I help individuals and teams move forward with clarity and renewed focus, sort of helping them revive their stalled research engines.
+
+I will offer affordable one-hour sessions to help people gain insights and advance their work. This approach will allow me to build my reputation as someone who can drive change without getting entangled in bureaucracy or emotional labor.
+
+My motto, "Escaping from Hell," reflects my ability to guide individuals through tough situations, unlocking the potential of their strengths and helping them move past stagnated research.
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
