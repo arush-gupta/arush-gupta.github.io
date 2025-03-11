@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Rising Barrier to Entry: How Social Media and Credential Inflation Reshaped Hiring
+title: The Rising Barrier to Entry - How Social Media and Credential Inflation Reshaped Hiring
 date: 2025-03-11 12:17:00+0530
 description: How Social Media and Credential Inflation Reshaped Hiring
 tags: labour market, socials
@@ -8,7 +8,7 @@ categories: economics
 citation: true
 ---
 
-# **The Rising Barrier to Entry: How Social Media and Credential Inflation Reshaped Hiring**  
+# The Rising Barrier to Entry: How Social Media and Credential Inflation Reshaped Hiring, 11th March 2025, by Arush Gupta 
 
 For decades, degrees from elite institutions served as a primary proxy for competence. Employers, lacking the time and resources to assess every candidate in depth, relied on a bachelor's degree—especially from prestigious universities—as a reliable filter. A degree wasn’t just proof of education; it signaled intelligence, discipline, **and most importantly, adaptability.**  
 
