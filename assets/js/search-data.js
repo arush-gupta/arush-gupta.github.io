@@ -79,15 +79,15 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-",
+            },{id: "post-the-rising-barrier-to-entry-how-social-media-and-credential-inflation-reshaped-hiring",
       
-        title: "",
+        title: "The Rising Barrier to Entry - How Social Media and Credential Inflation Reshaped Hiring...",
       
-      description: "",
+      description: "How Social Media and Credential Inflation Reshaped Hiring",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2025/2025-03-11-social-media-job-market/";
+          window.location.href = "/blog/2025/social-media-job-market/";
         
       },
     },{id: "post-struggling-in-the-job-market",
