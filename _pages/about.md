@@ -32,9 +32,9 @@ latest_posts:
 
 I am Arush
 
-I was trained by the old gods of academia (IIT + Imperial).
+I was trained by the old gods of academia (IIT Bombay + Imperial).
 
-I wandered the wastelands of modern work and saw the illusion.
+I wandered the wastelands of modern work and saw through the illusion.
 
 I do not offer compliance. I offer clarity, rupture, resurrection.
 
