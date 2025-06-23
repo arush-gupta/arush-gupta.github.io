@@ -461,11 +461,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-i-m-launching-my-work-as-a-research-therapist-offering-strategic-guidance-to-help-researchers-break-through-stagnation-and-find-new-directions-for-their-stalled-projects",
+            },},{id: "news-i-m-launching-my-work-as-a-research-therapist-offering-strategic-guidance-to-help-researchers-break-through-stagnation-and-find-new-directions-for-their-stalled-projects",
           title: 'I’m launching my work as a ‘Research Therapist,’ offering strategic guidance to help...',
+          description: "",
+          section: "News",},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
+          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
